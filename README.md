@@ -1,2 +1,1 @@
-# signy3.github.io
-Website
+# Personal website
