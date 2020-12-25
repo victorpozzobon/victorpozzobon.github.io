@@ -16,14 +16,14 @@ But I also have experience with yeasts.
 ### Aims
 
 It is well-known that microalgal biotechnology large scale deployment is hindered by three 
-(four if you want to add strain optimisation) bottlenecks: culture density - which is too low -,
+(four if you want to add strain optimization) bottlenecks: culture density - which is too low -,
 harvest - which is endergonic -, disruption/extraction - hampered by millions of years of 
-natural selection. Along those, I target culture densites: in photoautotrophic mode by **increasing light use efficiency**, in chemioheterotophic mode by lowering substrate costs. 
+natural selection. Along those, I target culture density: in photoautotrophic mode by **increasing light use efficiency**, in chemioheterotophic mode by lowering substrate costs. 
 
 ### Projects
 
 On the academic side, I investigate the **interaction between microalgae and light at the photobioreactor level**. While its exploration started long time ago now, much remains
-to be done. As for myself, I focus on modelling biological behavior and photobioreactor design. But I am for from restricting myself to this two fields.
+to be done. As for myself, I focus on biological behavior modelling and photobioreactor design. But I am for from restricting myself to this two fields.
 
-I also leads project for industrial partners. They usually revolves around photobioreactor performances assessment,
+I also lead projects with industrial partners. They usually revolves around photobioreactor performances assessment,
 developing culture protocol for exotic microalgae, ...
