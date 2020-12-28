@@ -49,6 +49,8 @@ The list of the peer reviewed publications I authored or co-authored, as well as
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience I linked publishers' websites, still almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
 
+* [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://www.sciencedirect.com/science/article/pii/S1385894720341140) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 128009.
+
 * [**Effect of increasing oxygen partial pressure on Saccharomyces cerevisiae growth and antioxidant and enzyme productions.**](https://link.springer.com/article/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
 
 * [**Pyrolysis of wood and PVC mixtures: thermal behaviour and kinetic modelling.**](https://link.springer.com/article/10.1007/s13399-020-00952-2) Ephraim, A., **Pozzobon, V.**, Lebonnois, D., Peregrina, C., Sharrock, P., Nzihou, A., & Minh, D. P. (2020). _Biomass Conversion and Biorefinery_, 1-15.
