@@ -14,7 +14,7 @@ I am involved in several research collaborations, the ones reported here are tho
 
 * [**RAPSODEE - Mines Albi**](https://www.imt-mines-albi.fr/fr/rapsodee) - on beech wood self heating.
 
-* [**RIBP - Université Reims Champagne Ardenne**](https://www.imt-mines-albi.fr/fr/rapsodee) - on microalgae photosynthesis.
+* [**RIBP - Université Reims Champagne Ardenne**](https://www.univ-reims.fr/universite/organisation/resistance-induite-et-bioprotection-des-plantes-ribp-ea-4707,7741,18258.html?args=8fmzUmUmh2s9mkRxFH%252ARm243h1t914JlFx7GH87A2vM4j4B40QG410EoDwp3hZsUN%252AafPXtAm9KBQ%252ADn0ln6vg) - on microalgae photosynthesis.
 
 * [**LPQM - CentraleSupélec**](https://www.centralesupelec.fr/en/quantum-and-molecular-photonics-laboratory-lpqm-umr-cnrs-8537-ens-cachan) - on a photobioreactor lighting system.
 
@@ -26,7 +26,7 @@ I am involved in several research collaborations, the ones reported here are tho
 
 ### Teaching and trainings
 
-I direct or supervise PhD students (3 in progress, 3 graduated) and numerous trainees from L to M level. 
+I direct or supervise PhD students (4 in progress, 2 graduated) and numerous trainees from L to M level. 
 
 My formal teachings activities are:
 

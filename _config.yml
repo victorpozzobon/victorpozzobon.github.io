@@ -14,8 +14,8 @@ last_update: December 2020
 description: >- # this means ignore newlines
   Victor Pozzobon is an habilitated PhD leading research in biotechnology. Microalgae are his favourite microorganisms because of their photosynthetic ability. He deploys all  kinds of numerical tools to investigate cell growth, viability and secondary metabolites production. 
 
-baseurl: "victorpozzobon.github.io"
-url: ""
+baseurl: ""
+url: "victorpozzobon.github.io"
 
 # Jekyll settings #######################################################
 
@@ -73,7 +73,7 @@ navigation:
   - item: "Research"
     link: "/academic/"
   - item: "Resume"
-    link: "/CV.pdf"
+    link: "/CV_Pozzobon_Victor_2020.pdf"
   - item: "Numerics"
     link: "/numerics/"
   - item: "Biotechnology"
