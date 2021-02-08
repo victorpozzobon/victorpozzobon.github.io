@@ -30,5 +30,26 @@ Luckily I accidentally found this [one](https://github.com/pauliacomi/pauliacomi
 with a very permissive license and easy to host. It is only normal that I 
 reference the people the credit should go to. 
 
-Finally, getting all the content to fit in one page was trickier than I excepted.
 **Would you like to know more, do not hesitate to contact me.**
+
+### Lifelong learning
+
+Lifelong learning is a great opportunity offered by the Internet. 
+I take advantage of it and engage in MOOCs on a regular basis. They revolve around 
+about everything from cooking to statistics. Would you like my opinion on any of the 
+MOOCs I completed (some links may be dead, sorry), do not hesitate to send me an email. 
+
+<!-- [La compta pour tous (Accounting)](https://www.fun-mooc.fr/courses/course-v1:CNAM+01021+session06/about) in 2021. <br/> -->
+[Managing Successful Team Meetings](https://alison.com/course/business-communication-managing-successful-team-meetings-revised) in 2021. <br/>
+[Utilisez Git et GitHub pour vos projets de développement (How to use Git and Github)](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) in 2021. <br/>
+[Data Analysis and Interpretation Specialization](https://www.coursera.org/specializations/data-analysis) in 2020. <br/>
+[Python in High Performance Computing](https://www.futurelearn.com/courses/python-in-hpc) in 2020. <br/>
+[Becoming an Effective Leader](https://www.edx.org/course/becoming-an-effective-leader) in 2020. <br/>
+[Les 101 techniques de base (French cuisine)](https://mooc.afpa.fr/courses/course-v1:afpa+replay_2020+2020/about) in 2019. <br/>
+[Analyse numérique pour ingénieurs (Numerical analysis)](https://courseware.epfl.ch/courses/course-v1:EPFL+analyse-numerique+2020/about) in 2017. <br/>
+[Nutrition and Health Part 1: Macronutrients and Overnutrition](https://courses.edx.org/courses/course-v1:WageningenX+NUTR101x+2T2015/course/) in 2016. <br/>
+[Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics) in 2015. <br/>
+[Introduction to Nutrition – Food for Health](https://courses.edx.org/courses/WageningenX/NUTR101x/1T2014/course/) in 2015. <br/>
+[Exercise Physiology: Understanding the Athlete Within](https://www.classcentral.com/course/exphys-497) in 2015 (dead link). <br/>
+[Introductory Human Physiology](https://www.coursera.org/learn/physiology) in 2015. <br/>
+[The Human Body as a Machine](https://www.classcentral.com/course/open2study-the-human-body-as-a-machine-1417) in 2015. <br/>
