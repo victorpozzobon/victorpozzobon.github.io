@@ -49,7 +49,7 @@ The list of the peer reviewed publications I authored or co-authored, as well as
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience I linked publishers' websites, still almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
 
-* [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://www.sciencedirect.com/science/article/pii/S1385894720341140) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 128009.
+* [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://www.sciencedirect.com/science/article/pii/S1385894720341140) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam)
 
 * [**Effect of increasing oxygen partial pressure on Saccharomyces cerevisiae growth and antioxidant and enzyme productions.**](https://link.springer.com/article/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
 
@@ -71,7 +71,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Mass transfer in hollow fiber membrane contactor: computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 116674.
 
-* [**Household aluminum foil matte and bright side reflectivity measurements: Application to a photobioreactor light concentrator design.**](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X) **Pozzobon, V.**, Levasseur, W., Do, K. V., Palpant, B., & Perré, P. (2020). _Biotechnology Reports_, 25, e00399.
+* [**Household aluminum foil matte and bright side reflectivity measurements: Application to a photobioreactor light concentrator design.**](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X) **Pozzobon, V.**, Levasseur, W., Do, K. V., Palpant, B., & Perré, P. (2020). _Biotechnology Reports_, 25, e00399. [(Associated repository)](https://github.com/victorpozzobon/aluminumFoilReflectivity)
 
 * [**Experimental and numerical investigation binary mixture mass transfer in a gas–Liquid membrane contactor.**](https://www.sciencedirect.com/science/article/pii/S0376738818317708) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2019). _Journal of Membrane Science_, 572, 1-11.
 
