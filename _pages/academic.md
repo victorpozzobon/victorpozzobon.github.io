@@ -51,11 +51,11 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://www.sciencedirect.com/science/article/pii/S1385894720341140) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam)
 
-* [**Effect of increasing oxygen partial pressure on Saccharomyces cerevisiae growth and antioxidant and enzyme productions.**](https://link.springer.com/article/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
+* [**Effect of increasing oxygen partial pressure on _Saccharomyces cerevisiae_ growth and antioxidant and enzyme productions.**](https://link.springer.com/article/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
 
 * [**Pyrolysis of wood and PVC mixtures: thermal behaviour and kinetic modelling.**](https://link.springer.com/article/10.1007/s13399-020-00952-2) Ephraim, A., **Pozzobon, V.**, Lebonnois, D., Peregrina, C., Sharrock, P., Nzihou, A., & Minh, D. P. (2020). _Biomass Conversion and Biorefinery_, 1-15.
 
-* [**Machine learning processing of microalgae flow cytometry readings: illustrated with Chlorella vulgaris viability assays.**](https://link.springer.com/article/10.1007/s10811-020-02180-7) **Pozzobon, V.**, Levasseur, W., Viau, E., Michiels, E., Clement, T., & Perre, P. (2020). _Journal of Applied Phycology_, 1-10.
+* [**Machine learning processing of microalgae flow cytometry readings: illustrated with _Chlorella vulgaris_ viability assays.**](https://link.springer.com/article/10.1007/s10811-020-02180-7) **Pozzobon, V.**, Levasseur, W., Viau, E., Michiels, E., Clement, T., & Perre, P. (2020). _Journal of Applied Phycology_, 1-10.
 
 * [**Mass transfer in hollow fiber membrane contactor: Computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 241, 116674.
 
@@ -75,7 +75,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Experimental and numerical investigation binary mixture mass transfer in a gas–Liquid membrane contactor.**](https://www.sciencedirect.com/science/article/pii/S0376738818317708) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2019). _Journal of Membrane Science_, 572, 1-11.
 
-* [**Impact of seconds to minutes photoperiods on Chlorella vulgaris growth rate and chlorophyll a and b content.**](https://www.sciencedirect.com/science/article/pii/S221192641830465X) Levasseur, W., Taidi, B., Lacombe, R., Perré, P., & **Pozzobon, V.** (2018).  _Algal research_, 36, 10-16.
+* [**Impact of seconds to minutes photoperiods on _Chlorella vulgaris_ growth rate and chlorophyll a and b content.**](https://www.sciencedirect.com/science/article/pii/S221192641830465X) Levasseur, W., Taidi, B., Lacombe, R., Perré, P., & **Pozzobon, V.** (2018).  _Algal research_, 36, 10-16.
 
 * [**Hydrodynamics of a packed bed of non-spherical polydisperse particles: A fully virtual approach validated by experiments.**](https://www.sciencedirect.com/science/article/pii/S1385894718314633) **Pozzobon, V.**, Colin, J., & Perré, P. (2018).  _Chemical Engineering Journal_, 354, 126-136.
 
@@ -105,9 +105,13 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Invitations as guest speaker
 
-* **Biomass gasification under radiative heat flux.** _**Pozzobon, V.**_ (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_, Sint-Genesius-Rode, Belgium.
+* **Biomass gasification under radiative heat flux.** _**Pozzobon, V.**_ (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_, The von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium.
+
+* **Granular media characterization: an application to wood chips bed.** _**Pozzobon, V.**_ & Perré P. (2018, November). In _OpenFOAM on fixed beds days_, IFPEN, Solaize, France.
 
 * **Effet de la photopériode sur la croissance des microalgues.** _**Pozzobon, V.**_ & Filali R. (2018, October). In _Journée microalgues_, European Center for Biotechnology and Bioeconomy, Pomacle, France.
+
+* **What is it to work as a PhD.** _**Pozzobon, V.**_ (2017, January). In _Conférence métier_, ENSEEIHT, Toulouse, France.
 
 ### Conference presentations
 
@@ -131,7 +135,7 @@ My thesis is titled **Modeling as a tool for chemical and biochemical engineerin
 *   Prof. Olivier Masbernat (_president of the jury_)
 *   Prof. Anthony Dufour (_reviewer_)
 *   Prof. Pascal Guiraud (_reviewer_)
-*   Dr. Julien Laurent (_reviewer_)
+*   Prof. Julien Laurent (_reviewer_)
 *   Prof. Théodore Bouchez (_examinator_)
 *   Prof. Jean-François Thovert (_examinator_)
 *   Prof. Gérald Debenest (_sponsor_)
@@ -147,7 +151,7 @@ My thesis is titled **Biomass gasification under high solar heat flux** and was 
 *   Dr. Laurent Van De Steene (_reviewer_)
 *   Prof. Gilles Flamant (_examinator_)
 *   Prof. Fabrice Patisson (_examinator_)
-*   Prof. Sylvain Salvador (_thesis director_)
-*   Dr. Jean-Jacques Bézian (_thesis director_)
+*   Prof. Sylvain Salvador (_director_)
+*   Dr. Jean-Jacques Bézian (_director_)
 
 It was financed by [Labex Solstice](https://www.labex-solstice.fr/en/). The text is available in full on [HAL](https://tel.archives-ouvertes.fr/tel-01255290/document) open archives.
