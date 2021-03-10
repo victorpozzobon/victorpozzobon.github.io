@@ -63,7 +63,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**A review of high value-added molecules production by microalgae in light of the classification.**](https://www.sciencedirect.com/science/article/pii/S0734975020300422) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_.
 
-* [**Desmodesmus sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://www.sciencedirect.com/science/article/pii/S2589014X2030030X) **Pozzobon, V.**, Levasseur, W., Do, Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_.
+* [**Desmodesmus sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://www.sciencedirect.com/science/article/pii/S2589014X2030030X) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_.
 
 * [**Shear stress computation in an millimeter thin flat panel photobioreactor: numerical design validated by experiments.**](https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bab.1894) Jiang, W., Levasseur, W., Casalinho, J., Martin, T., Puel, F., Perré, P., & **Pozzobon, V.** (2020). _Biotechnology and Applied Biochemistry_.
 
@@ -105,6 +105,8 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Invitations as guest speaker
 
+* **Emergence of the behavior of a population from its individuals: application to a photobioreactor.** _**Pozzobon, V.**_ (2021, March). Invited talk, Unité PROSE, INRAE, Antony, France.
+
 * **Biomass gasification under radiative heat flux.** _**Pozzobon, V.**_ (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_, The von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium.
 
 * **Granular media characterization: an application to wood chips bed.** _**Pozzobon, V.**_ & Perré P. (2018, November). In _OpenFOAM on fixed beds days_, IFPEN, Solaize, France.
@@ -113,7 +115,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * **What is it to work as a PhD.** _**Pozzobon, V.**_ (2017, January). In _Conférence métier_, ENSEEIHT, Toulouse, France.
 
-### Conference presentations
+### Proceedings
 
 * **Bubble formation and detachment: an investigation by experiments and simulations.** _Jiang, W._, **Pozzobon, V.**, Casalinho, J., Martin, T., Perre, P., & Puel, F. (2018, June). In _8th International Colloids Conference_.
 
@@ -126,6 +128,10 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 * **Beech wood gasification under high radiative heat flux.** _**Pozzobon, V.**_, Salvador, S., Bézian, J. J., El-Hafi, M., & Flamant, G. (2014, August). In _WasteEng 2014-5th International Conference on Engineering for Waste and Biomass Valorisation_, Rio de Janeiro, Brazil.
 
 * **Gazéification de la biomasse lignocellulosique sous haute densité de flux solaire: séchage et pyrolyse.** _**Pozzobon, V.**_, Salvador, S., Bézian, J. J., El-Hafi, M., & Le Maoult, Y. (2013, May). In _SFT Conference 2013_, Geradmer, France.
+
+### Conference presentations (without proceeding)
+
+I do not keep track of the conferences I, or a member of my team, present to. There are just too many. As a good rule of thumb, I give 4 to conference talks per year. 
 
 ### Habilitation Thesis
 
