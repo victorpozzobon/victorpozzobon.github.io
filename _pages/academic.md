@@ -48,6 +48,9 @@ hours of teachings including lectures in amphitheaters.
 The list of the peer reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience I linked publishers' websites, still almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
+* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: fast nitrogen quantification using spectrophotometer and machine learning.**](https://www.springer.com/journal/10811) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_.
+
+* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: growth, nitrogen uptake and pigment contents.**](https://https://www.sciencedirect.com/science/article/abs/pii/S0960852421003345) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 124995.
 
 * [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://www.sciencedirect.com/science/article/pii/S1385894720341140) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam)
 
