@@ -39,7 +39,7 @@ I take advantage of it and engage in MOOCs on a regular basis. They revolve arou
 about everything from cooking to statistics. Would you like my opinion on any of the 
 MOOCs I completed (some links may be dead, sorry), do not hesitate to send me an email. 
 
-<!-- [La compta pour tous (Accounting)](https://www.fun-mooc.fr/courses/course-v1:CNAM+01021+session06/about) in 2021. <br/> -->
+[La compta pour tous (Accounting)](https://www.fun-mooc.fr/courses/course-v1:CNAM+01021+session06/about) in 2021. <br/>
 [Design of Experiments Specialization](https://www.coursera.org/specializations/design-experiments) in 2021. <br/>
 [Managing Successful Team Meetings](https://alison.com/course/business-communication-managing-successful-team-meetings-revised) in 2021. <br/>
 [Utilisez Git et GitHub pour vos projets de développement (How to use Git and Github)](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) in 2021. <br/>
