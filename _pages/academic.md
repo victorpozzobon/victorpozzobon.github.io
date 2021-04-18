@@ -102,7 +102,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Biomass gasification under high solar heat flux: Experiments on thermally thick samples.**](https://www.sciencedirect.com/science/article/pii/S0016236116001174) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2016). _Fuel_, 174, 257-266.
 
-* [**High heat flux mapping using infrared images processed by inverse methods: an application to solar concentrating systems.**](https://www.sciencedirect.com/science/article/pii/S0038092X15002091) **Pozzobon, V.**, & Salvador, S. (2015). _Solar Energy_, 117, 29-35. 
+* [**High heat flux mapping using infrared images processed by inverse methods: an application to solar concentrating systems.**](https://www.sciencedirect.com/science/article/pii/S0038092X15002091) **Pozzobon, V.**, & Salvador, S. (2015). _Solar Energy_, 117, 29-35. [(Preprint)](/assets/preprints/Pozzobon_2015_a.pdf)
 
 * [**Radiative pyrolysis of wet wood under intermediate heat flux: Experiments and modeling.**](https://www.sciencedirect.com/science/article/pii/S0378382014002896) **Pozzobon, V.**, Salvador, S., Bézian, J. J., El-Hafi, M., Le Maoult, Y., & Flamant, G. (2014). _Fuel Processing Technology_, 128, 319-330. [(Preprint)](/assets/preprints/Pozzobon_2014_a.pdf)
 
