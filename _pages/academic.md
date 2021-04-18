@@ -64,13 +64,13 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://www.sciencedirect.com/science/article/pii/S002251932030148X) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293.
 
-* [**A review of high value-added molecules production by microalgae in light of the classification.**](https://www.sciencedirect.com/science/article/pii/S0734975020300422) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_. [(Preprint)](/assets/preprints/Levasseur_2020_a.pdf)
+* [**A review of high value-added molecules production by microalgae in light of the classification.**](https://www.sciencedirect.com/science/article/pii/S0734975020300422) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_, 41, 107545. [(Preprint)](/assets/preprints/Levasseur_2020_a.pdf)
 
-* [**Desmodesmus sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://www.sciencedirect.com/science/article/pii/S2589014X2030030X) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_.
+* [**Desmodesmus sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://www.sciencedirect.com/science/article/pii/S2589014X2030030X) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_, 10, 100409.
 
 * [**Shear stress computation in an millimeter thin flat panel photobioreactor: numerical design validated by experiments.**](https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bab.1894) Jiang, W., Levasseur, W., Casalinho, J., Martin, T., Puel, F., Perré, P., & **Pozzobon, V.** (2020). _Biotechnology and Applied Biochemistry_.
 
-* [**Cottage cheese in a diet–a review.**](https://www.emerald.com/insight/content/doi/10.1108/NFS-03-2019-0073/full/html) **Pozzobon, V.**, & Pozzobon, C. (2019). _Nutrition & Food Science_.
+* [**Cottage cheese in a diet – a review.**](https://www.emerald.com/insight/content/doi/10.1108/NFS-03-2019-0073/full/html) **Pozzobon, V.**, & Pozzobon, C. (2019). _Nutrition & Food Science_.
 
 * [**Mass transfer in hollow fiber membrane contactor: computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 116674.
 
@@ -104,7 +104,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**High heat flux mapping using infrared images processed by inverse methods: an application to solar concentrating systems.**](https://www.sciencedirect.com/science/article/pii/S0038092X15002091) **Pozzobon, V.**, & Salvador, S. (2015). _Solar Energy_, 117, 29-35. 
 
-* [**Radiative pyrolysis of wet wood under intermediate heat flux: Experiments and modeling.**](https://www.sciencedirect.com/science/article/pii/S0378382014002896) **Pozzobon, V.**, Salvador, S., Bézian, J. J., El-Hafi, M., Le Maoult, Y., & Flamant, G. (2014). _Fuel Processing Technology_, 128, 319-330.
+* [**Radiative pyrolysis of wet wood under intermediate heat flux: Experiments and modeling.**](https://www.sciencedirect.com/science/article/pii/S0378382014002896) **Pozzobon, V.**, Salvador, S., Bézian, J. J., El-Hafi, M., Le Maoult, Y., & Flamant, G. (2014). _Fuel Processing Technology_, 128, 319-330. [(Preprint)](/assets/preprints/Pozzobon_2014_a.pdf)
 
 ### Invitations as guest speaker
 
