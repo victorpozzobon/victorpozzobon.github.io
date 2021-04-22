@@ -62,7 +62,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Mass transfer in hollow fiber membrane contactor: Computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 241, 116674.
 
-* [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://www.sciencedirect.com/science/article/pii/S002251932030148X) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293. [(Preprint)](/assets/preprints/Pozzobon_2020_a.pdf)
+* [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://www.sciencedirect.com/science/article/pii/S002251932030148X) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293. [(Preprint)](/assets/preprints/Pozzobon_2020_d.pdf)
 
 
 * [**A review of high value-added molecules production by microalgae in light of the classification.**](https://www.sciencedirect.com/science/article/pii/S0734975020300422) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_, 41, 107545. [(Preprint)](/assets/preprints/Levasseur_2020_a.pdf)
