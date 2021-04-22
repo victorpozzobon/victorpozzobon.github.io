@@ -62,7 +62,8 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Mass transfer in hollow fiber membrane contactor: Computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 241, 116674.
 
-* [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://www.sciencedirect.com/science/article/pii/S002251932030148X) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293.
+* [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://www.sciencedirect.com/science/article/pii/S002251932030148X) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293. [(Preprint)](/assets/preprints/Pozzobon_2020_a.pdf)
+
 
 * [**A review of high value-added molecules production by microalgae in light of the classification.**](https://www.sciencedirect.com/science/article/pii/S0734975020300422) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_, 41, 107545. [(Preprint)](/assets/preprints/Levasseur_2020_a.pdf)
 
@@ -70,11 +71,11 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Shear stress computation in an millimeter thin flat panel photobioreactor: numerical design validated by experiments.**](https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bab.1894) Jiang, W., Levasseur, W., Casalinho, J., Martin, T., Puel, F., Perré, P., & **Pozzobon, V.** (2020). _Biotechnology and Applied Biochemistry_.
 
-* [**Cottage cheese in a diet – a review.**](https://www.emerald.com/insight/content/doi/10.1108/NFS-03-2019-0073/full/html) **Pozzobon, V.**, & Pozzobon, C. (2019). _Nutrition & Food Science_.
-
 * [**Mass transfer in hollow fiber membrane contactor: computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 116674.
 
 * [**Household aluminum foil matte and bright side reflectivity measurements: Application to a photobioreactor light concentrator design.**](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X) **Pozzobon, V.**, Levasseur, W., Do, K. V., Palpant, B., & Perré, P. (2020). _Biotechnology Reports_, 25, e00399. [(Associated repository)](https://github.com/victorpozzobon/aluminumFoilReflectivity)
+
+* [**Cottage cheese in a diet – a review.**](https://www.emerald.com/insight/content/doi/10.1108/NFS-03-2019-0073/full/html) **Pozzobon, V.**, & Pozzobon, C. (2019). _Nutrition & Food Science_.
 
 * [**Experimental and numerical investigation binary mixture mass transfer in a gas–Liquid membrane contactor.**](https://www.sciencedirect.com/science/article/pii/S0376738818317708) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2019). _Journal of Membrane Science_, 572, 1-11.
 
