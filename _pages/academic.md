@@ -48,7 +48,7 @@ hours of teachings including lectures in amphitheaters.
 The list of the peer reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience I linked publishers' websites, still almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: fast nitrogen quantification using spectrophotometer and machine learning.**](https://www.springer.com/journal/10811) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
+* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: fast nitrogen quantification using spectrophotometer and machine learning.**](https://www.springer.com/journal/10811) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf) [(Surf)](/assets/Fig_Surf_Galactose.html)
 
 * [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: growth, nitrogen uptake and pigment contents.**](https://www.sciencedirect.com/science/article/abs/pii/S0960852421003345) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 124995. [(Preprint)](/assets/preprints/Pozzobon_2021_a.pdf)
 
