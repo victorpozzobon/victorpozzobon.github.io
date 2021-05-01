@@ -52,7 +52,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: growth, nitrogen uptake and pigment contents.**](https://www.sciencedirect.com/science/article/abs/pii/S0960852421003345) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 124995. [(Preprint)](/assets/preprints/Pozzobon_2021_a.pdf)
 
-* [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://www.sciencedirect.com/science/article/pii/S1385894720341140) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam)
+* [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://www.sciencedirect.com/science/article/pii/S1385894720341140) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam) [(Preprint)](/assets/preprints/Sassanis_2020_a.pdf)
 
 * [**Effect of increasing oxygen partial pressure on _Saccharomyces cerevisiae_ growth and antioxidant and enzyme productions.**](https://link.springer.com/article/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
 
