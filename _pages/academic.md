@@ -60,7 +60,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Machine learning processing of microalgae flow cytometry readings: illustrated with _Chlorella vulgaris_ viability assays.**](https://link.springer.com/article/10.1007/s10811-020-02180-7) **Pozzobon, V.**, Levasseur, W., Viau, E., Michiels, E., Clement, T., & Perre, P. (2020). _Journal of Applied Phycology_, 1-10.
 
-* [**Mass transfer in hollow fiber membrane contactor: Computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 241, 116674.
+* [**Mass transfer in hollow fiber membrane contactor: Computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 241, 116674. [(Preprint)](/assets/preprints/Pozzobon_2020_a.pdf)
 
 * [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://www.sciencedirect.com/science/article/pii/S002251932030148X) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293. [(Preprint)](/assets/preprints/Pozzobon_2020_d.pdf)
 
