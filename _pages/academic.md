@@ -101,7 +101,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Simulation of biomass char gasification in a downdraft reactor for syngas production.**](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.15111) Ephraim, A., **Pozzobon, V.**, Louisnard, O., Minh, D. P., Nzihou, A., & Sharrock, P. (2016). _AIChE Journal_, 62(4), 1079-1091.
 
-* [**Biomass gasification under high solar heat flux: Experiments on thermally thick samples.**](https://www.sciencedirect.com/science/article/pii/S0016236116001174) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2016). _Fuel_, 174, 257-266.
+* [**Biomass gasification under high solar heat flux: Experiments on thermally thick samples.**](https://www.sciencedirect.com/science/article/pii/S0016236116001174) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2016). _Fuel_, 174, 257-266. [(Preprint)](/assets/preprints/Pozzobon_2016_a.pdf)
 
 * [**High heat flux mapping using infrared images processed by inverse methods: an application to solar concentrating systems.**](https://www.sciencedirect.com/science/article/pii/S0038092X15002091) **Pozzobon, V.**, & Salvador, S. (2015). _Solar Energy_, 117, 29-35. [(Preprint)](/assets/preprints/Pozzobon_2015_a.pdf)
 
