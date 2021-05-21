@@ -64,7 +64,6 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://www.sciencedirect.com/science/article/pii/S002251932030148X) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293. [(Preprint)](/assets/preprints/Pozzobon_2020_d.pdf)
 
-
 * [**A review of high value-added molecules production by microalgae in light of the classification.**](https://www.sciencedirect.com/science/article/pii/S0734975020300422) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_, 41, 107545. [(Preprint)](/assets/preprints/Levasseur_2020_a.pdf)
 
 * [**Desmodesmus sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://www.sciencedirect.com/science/article/pii/S2589014X2030030X) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_, 10, 100409.
@@ -83,7 +82,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Hydrodynamics of a packed bed of non-spherical polydisperse particles: A fully virtual approach validated by experiments.**](https://www.sciencedirect.com/science/article/pii/S1385894718314633) **Pozzobon, V.**, Colin, J., & Perré, P. (2018).  _Chemical Engineering Journal_, 354, 126-136.
 
-* [**Biomass gasification under high solar heat flux: Advanced modeling.**](https://www.sciencedirect.com/science/article/pii/S0016236117312565) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2018). _Fuel_, 214, 300-313.
+* [**Biomass gasification under high solar heat flux: Advanced modeling.**](https://www.sciencedirect.com/science/article/pii/S0016236117312565) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2018). _Fuel_, 214, 300-313. [(Preprint)](/assets/preprints/Pozzobon_2018_f.pdf)
 
 * [**10% Loss of Incident Power through Solar Reactor Window: Myth or Good Rule of Thumb?**](https://link.springer.com/article/10.3103/S0003701X18020093) **Pozzobon, V.** (2018). _Applied Solar Energy_, 54(2), 131-133.
 
