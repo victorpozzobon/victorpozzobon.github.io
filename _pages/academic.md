@@ -58,7 +58,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Pyrolysis of wood and PVC mixtures: thermal behaviour and kinetic modelling.**](https://link.springer.com/article/10.1007/s13399-020-00952-2) Ephraim, A., **Pozzobon, V.**, Lebonnois, D., Peregrina, C., Sharrock, P., Nzihou, A., & Minh, D. P. (2020). _Biomass Conversion and Biorefinery_, 1-15.
 
-* [**Machine learning processing of microalgae flow cytometry readings: illustrated with _Chlorella vulgaris_ viability assays.**](https://link.springer.com/article/10.1007/s10811-020-02180-7) **Pozzobon, V.**, Levasseur, W., Viau, E., Michiels, E., Clement, T., & Perre, P. (2020). _Journal of Applied Phycology_, 1-10.
+* [**Machine learning processing of microalgae flow cytometry readings: illustrated with _Chlorella vulgaris_ viability assays.**](https://link.springer.com/article/10.1007/s10811-020-02180-7) **Pozzobon, V.**, Levasseur, W., Viau, E., Michiels, E., Clement, T., & Perre, P. (2020). _Journal of Applied Phycology_, 1-10. [(Preprint)](/assets/preprints/Pozzobon_2020_b.pdf)
 
 * [**Mass transfer in hollow fiber membrane contactor: Computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 241, 116674. [(Preprint)](/assets/preprints/Pozzobon_2020_a.pdf)
 
@@ -69,8 +69,6 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 * [**Desmodesmus sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://www.sciencedirect.com/science/article/pii/S2589014X2030030X) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_, 10, 100409.
 
 * [**Shear stress computation in an millimeter thin flat panel photobioreactor: numerical design validated by experiments.**](https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bab.1894) Jiang, W., Levasseur, W., Casalinho, J., Martin, T., Puel, F., Perré, P., & **Pozzobon, V.** (2020). _Biotechnology and Applied Biochemistry_.
-
-* [**Mass transfer in hollow fiber membrane contactor: computational fluid dynamics determination of the shell side resistance.**](https://www.sciencedirect.com/science/article/pii/S1383586619359180) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 116674.
 
 * [**Household aluminum foil matte and bright side reflectivity measurements: Application to a photobioreactor light concentrator design.**](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X) **Pozzobon, V.**, Levasseur, W., Do, K. V., Palpant, B., & Perré, P. (2020). _Biotechnology Reports_, 25, e00399. [(Associated repository)](https://github.com/victorpozzobon/aluminumFoilReflectivity)
 
