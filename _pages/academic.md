@@ -78,11 +78,11 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Impact of seconds to minutes photoperiods on _Chlorella vulgaris_ growth rate and chlorophyll a and b content.**](https://www.sciencedirect.com/science/article/pii/S221192641830465X) Levasseur, W., Taidi, B., Lacombe, R., Perré, P., & **Pozzobon, V.** (2018).  _Algal research_, 36, 10-16.
 
-* [**Hydrodynamics of a packed bed of non-spherical polydisperse particles: A fully virtual approach validated by experiments.**](https://www.sciencedirect.com/science/article/pii/S1385894718314633) **Pozzobon, V.**, Colin, J., & Perré, P. (2018).  _Chemical Engineering Journal_, 354, 126-136.
+* [**Hydrodynamics of a packed bed of non-spherical polydisperse particles: A fully virtual approach validated by experiments.**](https://www.sciencedirect.com/science/article/pii/S1385894718314633) **Pozzobon, V.**, Colin, J., & Perré, P. (2018).  _Chemical Engineering Journal_, 354, 126-136. [(Preprint)](/assets/preprints/Pozzobon_2018_g.pdf)
 
 * [**Biomass gasification under high solar heat flux: Advanced modeling.**](https://www.sciencedirect.com/science/article/pii/S0016236117312565) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2018). _Fuel_, 214, 300-313. [(Preprint)](/assets/preprints/Pozzobon_2018_f.pdf)
 
-* [**10% Loss of Incident Power through Solar Reactor Window: Myth or Good Rule of Thumb?**](https://link.springer.com/article/10.3103/S0003701X18020093) **Pozzobon, V.** (2018). _Applied Solar Energy_, 54(2), 131-133.
+* [**10% Loss of Incident Power through Solar Reactor Window: Myth or Good Rule of Thumb?**](https://link.springer.com/article/10.3103/S0003701X18020093) **Pozzobon, V.** (2018). _Applied Solar Energy_, 54(2), 131-133. [(Preprint)](/assets/preprints/Pozzobon_2018_e.pdf)
 
 * [**Probabilistic modeling of coupled heat transfer: A step towards optimization based on multiphysics Monte Carlo simulations.**](https://www.sciencedirect.com/science/article/pii/S1290072916309395) Spiesser, C., **Pozzobon, V.**, Farges, O., & Bezian, J. J. (2018). _International Journal of Thermal Sciences_, 132, 387-397.
 
