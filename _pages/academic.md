@@ -90,9 +90,9 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Resveratrol production by grapevine cells in fed-batch bioreactor: Experiments and modeling.**](https://www.sciencedirect.com/science/article/pii/S1369703X17303431) Chastang, T., **Pozzobon, V.**, Taidi, B., Courot, E., Clément, C., & Pareau, D. (2018). _Biochemical engineering journal_, 131, 9-16.
 
-* [**Han’s model parameters for microalgae grown under intermittent illumination: Determined using particle swarm optimization.**](https://www.sciencedirect.com/science/article/pii/S0022519317304733) **Pozzobon, V.**, & Perre, P. (2018). _Journal of theoretical biology_, 437, 29-35.
+* [**Han’s model parameters for microalgae grown under intermittent illumination: Determined using particle swarm optimization.**](https://www.sciencedirect.com/science/article/pii/S0022519317304733) **Pozzobon, V.**, & Perre, P. (2018). _Journal of theoretical biology_, 437, 29-35. [(Preprint)](/assets/preprints/Pozzobon_2018_a.pdf)
 
-* [**Darcy scale modeling of smoldering: impact of heat loss.**](https://www.tandfonline.com/doi/abs/10.1080/00102202.2016.1214585) **Pozzobon, V.**, Baud, G., Salvador, S., & Debenest, G. (2017). _Combustion Science and Technology_, 189(2), 340-365.
+* [**Darcy scale modeling of smoldering: impact of heat loss.**](https://www.tandfonline.com/doi/abs/10.1080/00102202.2016.1214585) **Pozzobon, V.**, Baud, G., Salvador, S., & Debenest, G. (2017). _Combustion Science and Technology_, 189(2), 340-365. [(Preprint)](/assets/preprints/Pozzobon_2017_b.pdf)
 
 * [**Gas-liquid absorption in industrial cross-flow membrane contactors: Experimental and numerical investigation of the influence of transmembrane pressure on partial wetting.**](https://www.sciencedirect.com/science/article/pii/S0009250917302105) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2017). _Chemical Engineering Science_, 170, 561-573.
 
