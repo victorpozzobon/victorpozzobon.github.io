@@ -76,7 +76,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Experimental and numerical investigation binary mixture mass transfer in a gas–Liquid membrane contactor.**](https://www.sciencedirect.com/science/article/pii/S0376738818317708) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2019). _Journal of Membrane Science_, 572, 1-11.
 
-* [**Impact of seconds to minutes photoperiods on _Chlorella vulgaris_ growth rate and chlorophyll a and b content.**](https://www.sciencedirect.com/science/article/pii/S221192641830465X) Levasseur, W., Taidi, B., Lacombe, R., Perré, P., & **Pozzobon, V.** (2018).  _Algal research_, 36, 10-16.
+* [**Impact of seconds to minutes photoperiods on _Chlorella vulgaris_ growth rate and chlorophyll a and b content.**](https://www.sciencedirect.com/science/article/pii/S221192641830465X) Levasseur, W., Taidi, B., Lacombe, R., Perré, P., & **Pozzobon, V.** (2018).  _Algal research_, 36, 10-16. [(Preprint)](/assets/preprints/Levasseur_2018_a.pdf)
 
 * [**Hydrodynamics of a packed bed of non-spherical polydisperse particles: A fully virtual approach validated by experiments.**](https://www.sciencedirect.com/science/article/pii/S1385894718314633) **Pozzobon, V.**, Colin, J., & Perré, P. (2018).  _Chemical Engineering Journal_, 354, 126-136. [(Preprint)](/assets/preprints/Pozzobon_2018_g.pdf)
 
