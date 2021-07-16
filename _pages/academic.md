@@ -50,7 +50,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://www.mdpi.com/2077-0375/11/7/496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496.
 
-* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: fast nitrogen quantification using spectrophotometer and machine learning.**](https://www.springer.com/journal/10811) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
+* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: fast nitrogen quantification using spectrophotometer and machine learning.**](https://www.springer.com/journal/10811) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Associated repository)](https://github.com/victorpozzobon/PSOGAPLS_NitrogenSpectroscopy)  [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
 
 * [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: growth, nitrogen uptake and pigment contents.**](https://www.sciencedirect.com/science/article/abs/pii/S0960852421003345) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 124995. [(Preprint)](/assets/preprints/Pozzobon_2021_a.pdf)
 
