@@ -10,9 +10,9 @@ permalink: /academic/
 
 Member of the association of the French users of OpenFOAM, [FOAM-U](http://foam-u.fr/). Secretary from 2016 to 2020, treasurer from 2020 to date.
 
-I am involved in several research collaborations, the ones reported here are those which can be traced by a shared scientific valorization item. 
+I am involved in several research collaborations. The ones reported here are those which can be traced by a shared scientific valorization item. 
 
-* [**RAPSODEE - Mines Albi**](https://www.imt-mines-albi.fr/fr/rapsodee) - on beech wood self heating.
+* [**RAPSODEE - Mines Albi**](https://www.imt-mines-albi.fr/fr/rapsodee) - on beech wood self-heating.
 
 * [**RIBP - Université Reims Champagne Ardenne**](https://www.univ-reims.fr/universite/organisation/resistance-induite-et-bioprotection-des-plantes-ribp-ea-4707,7741,18258.html?args=8fmzUmUmh2s9mkRxFH%252ARm243h1t914JlFx7GH87A2vM4j4B40QG410EoDwp3hZsUN%252AafPXtAm9KBQ%252ADn0ln6vg) - on microalgae photosynthesis.
 
@@ -26,27 +26,27 @@ I am involved in several research collaborations, the ones reported here are tho
 
 ### Teaching and trainings
 
-I direct or supervise PhD students (4 in progress, 2 graduated) and numerous trainees from L to M level. 
+I direct or supervise Ph.D. students (2 in progress, 5 graduated), post-docs (2 at the moment), and numerous L- to M-level trainees.
 
 My formal teachings activities are:
 
-* M2 - in charge of the _Non Ideal Reactor_ course, ca. 30 h
+* M2 - in charge of the _Non-Ideal Reactor_ course, ca. 30 h
 
 * M2 - practicals on _CFD with Comsol_, ca. 14 h
 
-* L3 - one week boot camp on _Heat exchangers biofouling_, ca. 35 h
+* L3 - one-week boot camp on _Heat exchangers biofouling_, ca. 35 h
 
 * many other occasional or reoccurring involvements
 
-I also provide training to OpenFOAM, usually through 2 to 3 day sessions, once or twice a year.
+I also provide training to OpenFOAM, usually through 2 to 3-day sessions, once or twice a year.
 
-Finally, over the course of my PhD, I gave more than 250
-hours of teachings including lectures in amphitheaters. 
+Finally, over the course of my Ph.D., I gave more than 250
+hours of teachings, including lectures in amphitheaters. 
 
 ### Publications
 <!--APA modified style-->
-The list of the peer reviewed publications I authored or co-authored, as well as conferences
-I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience I linked publishers' websites, still almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
+The list of the peer-reviewed publications I authored or co-authored, as well as conferences
+I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
 * [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://www.mdpi.com/2077-0375/11/7/496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496.
 
@@ -134,12 +134,12 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Conference presentations (without proceeding)
 
-I do not keep track of the conferences I, or a member of my team, present to. There are just too many. As a good rule of thumb, I give 4 to conference talks per year. 
+I do not keep track of the conferences I, or a member of my team, present to. There are just too many. As a good rule of thumb, I give 4 conference talks per year. 
 
 ### Habilitation Thesis
 
-My thesis is titled **Modeling as a tool for chemical and biochemical engineering** and was defended on September 2020 at
-[Institut National Polytechnique de Toulouse](https://www.inp-toulouse.fr/en/index.html), France in front of the following jury:
+My thesis is titled **Modeling as a tool for chemical and biochemical engineering** and was defended in September 2020 at
+[Institut National Polytechnique de Toulouse](https://www.inp-toulouse.fr/en/index.html), France, in front of the following jury:
 
 *   Prof. Olivier Masbernat (_president of the jury_)
 *   Prof. Anthony Dufour (_reviewer_)
@@ -150,10 +150,10 @@ My thesis is titled **Modeling as a tool for chemical and biochemical engineerin
 *   Prof. Gérald Debenest (_sponsor_)
 *   Prof. Patrick Perré (_supervisor_)
 
-### PhD Thesis
+### Ph.D. Thesis
 
-My thesis is titled **Biomass gasification under high solar heat flux** and was defended on November 2015 at
-[Mines Albi, RAPSODEE](https://www.imt-mines-albi.fr/fr/rapsodee), France in front of the following jury:
+My thesis is titled **Biomass gasification under high solar heat flux** and was defended in November 2015 at
+[Mines Albi, RAPSODEE](https://www.imt-mines-albi.fr/fr/rapsodee), France, in front of the following jury:
 
 *   Prof. Michel Quintard (_president of the jury_)
 *   Prof. Jean-François Thovert (_reviewer_)

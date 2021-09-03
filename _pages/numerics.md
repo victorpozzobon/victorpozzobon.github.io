@@ -6,27 +6,27 @@ permalink: /numerics/
 # Numerics
 
 I have always been mesmerized by how a computer could execute repetitive tasks for people.
-I have thousand of bits of codes doing things here and there, most are written Python or C++. Still, the remarkable ones revolves around
+I have thousands of bits of code doing things here and there; most are written Python or C++. Still, the remarkable ones revolve around
 subjects down below. 
 
 ### Mechanistic modeling & CFD
 
-I develop codes that can reproduce **biological behaviors** (cell growth, metabolites accumulation, ...) and **couple them with full scale CFD** computation of bioreactors. This way it is possible to predict what would happen 
-to each and every cells of the population and manipulate it. 
+I develop codes that can reproduce **biological behaviors** (cell growth, metabolites accumulation, ...) and **couple them with full-scale CFD** computation of bioreactors. This way, it is possible to predict what would happen 
+to each and every cell of the population and manipulate it. 
 
-In addition, I apply my skills in mechanistic modeling and CFD to many other topics such as heat and mass transfer in porous/granular media.
+In addition, I apply my skills in mechanistic modeling and CFD to many other topics, such as heat and mass transfer in porous/granular media.
 
 ### Statistics & Machine learning
 
-Biology requires to **assess the statistical robustness** of the conclusions we draw from the 
+Biology requires **assessing the statistical robustness** of the conclusions we draw from the 
 data we generate. That is why I acquired skills in descriptive and **inferential statistics**. 
 
-Machine learning was the obvious next step. Nowadays, biotechnology high throughput methods,
-such as flow cytometry, and increasing HPC power make a lot a things possible. I apply machine learning
-algorithms to three types of problem: 
+Machine learning was the obvious next step. Nowadays, biotechnology high throughput methods, 
+such as flow cytometry and increasing HPC power, make many things possible. I apply machine learning
+algorithms to three types of problems: 
 
 * **Clustering** (unsupervised learning) - to identity a sub-population of cells
 
-* **Spectrophotometric quantification** (supervized learning) - to lower analytic response time and better operate bioreactors
+* **Spectrophotometric quantification** (supervised learning) - to lower analytic response time and better operate bioreactors
 
 * **Data analysis** - to understand the underlying couplings within the data using non-linear models

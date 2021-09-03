@@ -7,21 +7,15 @@ permalink: /about/
 
 # About me
 
-I was born in France in the very late 80's and grew up in Lyon's area. After
+I was born in France in the very late '80s and grew up in Lyon's area. After
 highschool I went for an engineering degree, with a specialization in fluid 
-mechanics, followed by a PhD in heat and mass transfer. 
+mechanics, followed by a Ph.D. in heat and mass transfer. 
 
-I fell in love with science around my twenties. I like the 
-neverending challenge it feeds me with. It is one of the only job
-that offers you a considerable amount of freedom. A freedom I use to learn and 
-try to improve myself. In one word, I feel so lucky to have a job I am 
-passionate about. 
+I fell in love with science around my twenties. I like the neverending challenge it feeds me with. 
+It is one of the only jobs that offer you a considerable amount of freedom. 
+A freedom I use to learn and try to improve myself. In a word, I feel so lucky to have a job I am passionate about. 
 
-Apart from that, I am the average Joe. I like sport. I have played rugby for more than
-10 years. What's left of it today is a daily resistance training routine and a run 
-on the week-end. I also find cooking quite fun. Oh ... And there is 
-walking, may seem strange for anyone not living in the Netherlands, but I got 
-a few medals for that. 
+Apart from that, I am the average Joe. I like sport. I have played rugby for more than 10 years. What's left of it today is a daily resistance training routine and a run on the weekend. I also find cooking quite fun. Oh ... And there is walking, which may seem strange for anyone not living in the Netherlands, but I got a few medals for that. 
 
 ### About this website
 
@@ -35,9 +29,9 @@ reference the people the credit should go to.
 ### Lifelong learning
 
 Lifelong learning is a great opportunity offered by the Internet. 
-I take advantage of it and engage in MOOCs on a regular basis. They revolve around 
-about everything from cooking to statistics. Would you like my opinion on any of the 
-MOOCs I completed (some links may be dead, sorry), do not hesitate to send me an email. 
+I take advantage of it and engage in MOOCs on a regular basis. 
+They revolve around everything from cooking to statistics. 
+If you like my opinion on any MOOCs I completed (some links may be dead, sorry), do not hesitate to send me an email.
 
 [L'analyse financière pour tous  (Financial analysis)](https://www.fun-mooc.fr/en/cours/lanalyse-financiere-pour-tous/) in 2021. <br/>
 [La compta pour tous (Accounting)](https://www.fun-mooc.fr/en/cours/la-compta-pour-tous/) in 2021. <br/>
