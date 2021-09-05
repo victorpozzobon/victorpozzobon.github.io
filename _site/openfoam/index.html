@@ -20,26 +20,26 @@
 <meta property="og:title" content="OpenFOAM" />
 <meta name="author" content="Victor Pozzobon" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Victor Pozzobon is an habilitated PhD leading research in biotechnology. Microalgae are his favourite microorganisms because of their photosynthetic ability. He deploys all kinds of numerical tools to investigate cell growth, viability and secondary metabolites production." />
-<meta property="og:description" content="Victor Pozzobon is an habilitated PhD leading research in biotechnology. Microalgae are his favourite microorganisms because of their photosynthetic ability. He deploys all kinds of numerical tools to investigate cell growth, viability and secondary metabolites production." />
+<meta name="description" content="Victor Pozzobon is a habilitated Ph.D. leading research in biotechnology. Microalgae are his favorite microorganisms because of their photosynthetic ability. He deploys all kinds of numerical tools to investigate cell growth, viability, and secondary metabolites production." />
+<meta property="og:description" content="Victor Pozzobon is a habilitated Ph.D. leading research in biotechnology. Microalgae are his favorite microorganisms because of their photosynthetic ability. He deploys all kinds of numerical tools to investigate cell growth, viability, and secondary metabolites production." />
 <link rel="canonical" href="http://localhost:4000/openfoam/" />
 <meta property="og:url" content="http://localhost:4000/openfoam/" />
 <meta property="og:site_name" content="Victor Pozzobon" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/openfoam/","headline":"OpenFOAM","author":{"@type":"Person","name":"Victor Pozzobon"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/me.jpg"},"name":"Victor Pozzobon"},"description":"Victor Pozzobon is an habilitated PhD leading research in biotechnology. Microalgae are his favourite microorganisms because of their photosynthetic ability. He deploys all kinds of numerical tools to investigate cell growth, viability and secondary metabolites production.","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/openfoam/","headline":"OpenFOAM","author":{"@type":"Person","name":"Victor Pozzobon"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/me.jpg"},"name":"Victor Pozzobon"},"description":"Victor Pozzobon is a habilitated Ph.D. leading research in biotechnology. Microalgae are his favorite microorganisms because of their photosynthetic ability. He deploys all kinds of numerical tools to investigate cell growth, viability, and secondary metabolites production.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
     <!-- Separate Twitter meta -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Victor Pozzobon">
-    <meta name="twitter:description" content="Victor Pozzobon is an habilitated PhD leading research in biotechnology. Microalgae are his favourite microorganisms because of their photosynthetic ability. He deploys all  kinds of numerical tools to investigate cell growth, viability and secondary metabolites production. ">
+    <meta name="twitter:description" content="Victor Pozzobon is a habilitated Ph.D. leading research in biotechnology. Microalgae are his favorite microorganisms because of their photosynthetic ability. He deploys all kinds of numerical tools to investigate cell growth, viability, and secondary metabolites production. ">
 
     <!-- 404 redirect -->
     
 
     <!-- CSS -->
-    <link rel="stylesheet" href="/assets/css/style.css?v=bcb90f5c6e02e08cc5936c4e56a3e8a656b60146">
+    <link rel="stylesheet" href="/assets/css/style.css?v=0c20bf63e5e95727273470ecaedd41b9cd2aa16d">
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="/favicon.png">
@@ -72,7 +72,7 @@
             
             
             
-            <a class="btn navbar-btn" , target="_blank" href="/CV_Pozzobon.pdf">Resume</a>
+            <a class="btn navbar-btn" , href="/resume/">CV(s)</a>
             
             
             
@@ -127,7 +127,7 @@
       <article class="inner-container">
         <h1 id="openfoam">OpenFOAM</h1>
 
-<p>I discovered OpenFOAM during my PhD, when the disk of the server I had my previous code on just went on fire
+<p>I discovered OpenFOAM during my Ph.D., when the disk of the server I had my previous code on just went on fire
 (the backup disk was just above the first one, physically speaking … Yeah …). I had heard of it, but I was trained in Comsol 
 and Fluent, so I never dared to try. I took this event as a sign and jumped into the world of OpenFOAM (version
 2.0.0 at the time).</p>
@@ -137,12 +137,12 @@ and Fluent, so I never dared to try. I took this event as a sign and jumped into
 <!--![image-title-here](/assets/images/WoodChipTemp.png){: style="float: right;width:50%; max-width:400px; margin:10px"}-->
 <p>I use OpenFOAM to tackle numerous problems. Of course, CFD tops the list for both biological and microscale porous media applications.
 Still, as it is possible to specify which set of equations one wants to solve, I use OpenFOAM in various other cases, 
-such as heat transfer in solids, or custom equations solving on complex geometries, …</p>
+such as heat transfer in solids or custom equations solving on complex geometries, …</p>
 
 <p>For <strong>photobioreactor simulations</strong>, I use multiphase flow models to track both bubbles and cells. Practically speaking,
-it revolves around VoF methods at very small scale, Lagrangian-Eulerian at labscale and Eulerian-Eulerian at
+it revolves around VoF methods at a very small scale, Lagrangian-Eulerian at lab-scale, and Eulerian-Eulerian at
 large scale. Above that, a Lagrangian population is used to describe and track the cells. 
-This way it is possible to acquire each cell history (shear stress, dissolved gas, light, …) and compute growth.</p>
+This way, it is possible to acquire each cell history (shear stress, dissolved gas, light, …) and compute growth.</p>
 
 <div style="padding-top:40%; position:relative; width:80%;margin-left:10%">
 <iframe src="https://www.youtube.com/embed/N_-Dq8VHMgE" frameborder="0" allowfullscreen="" style="height: 100%; width: 100%; position:absolute; top:0; left:0"></iframe>
@@ -151,8 +151,8 @@ This way it is possible to acquire each cell history (shear stress, dissolved ga
 <p style="text-align: center">VoF simulation of a prototype ultrathin flat panel photobioreactor</p>
 
 <p><strong>Granular/porous media investigations</strong> are much more classical, flow computation followed by scalar transport. The
-challenge lies in the geometries which are most of the time quite intricated. In addition, scalar transport may 
-also become a trial when the species have to be tracked within the solid phase, into which they react.</p>
+challenge lies in the geometries, which are most of the time quite intricated. In addition, scalar transport may 
+also become a trial when the species have to be tracked within the solid phase into which they react.</p>
 
 <p><img src="/assets/images/WoodChipTemp.png" alt="WoodChipTemp" style="width:80%; margin-left:10%" /></p>
 
@@ -162,7 +162,7 @@ also become a trial when the species have to be tracked within the solid phase, 
 <h3 id="training">Training</h3>
 
 <p>I organize and animate a yearly OpenFOAM training in partnership with <a href="https://romeo.univ-reims.fr/pages/aboutUs">ROMEO HPC center</a>.
-This event classically gathers about 20 participants for 3-day OpenFOAM session during which various aspects of the tools are covered 
+This event classically gathers about 20 participants for a 3-day OpenFOAM session during which various aspects of the tools are covered 
 (from very basic ones to running the code on a cluster). The teaching material is available for free on <a href="https://www.researchgate.net/publication/282272911_OpenFOAM_step_by_step_tutorial_'beginners'_version?_sg=LYfMsDdLYUWIBBdYK_Ye4cyt-KMydQTnrbNHBkOALZxSPRk9HIu1nYYoOXSRCJ2SvIifCwsnQ_7TfIyLMmuPo-8WQFoeJRwmYRgJt_bc.B-5cKQLUgea9SulNEHZputaODTWJ2F2WdmW1NA5mg1oYgp9jd5xvqMP3lAvcYFH2tCsIzO9rFbUZ_p0Jq77v7Q">ResearchGate</a>.</p>
 
 <p><strong>Would you like to know more, do not hesitate to contact me.</strong></p>
@@ -174,11 +174,11 @@ This event classically gathers about 20 participants for 3-day OpenFOAM session 
 
         <div class="footer-col footer-col-1">
             <ul class="contact-list">
-                <li class="p-name">&copy;Victor Pozzobon</li><li>Last update: April 2021</li><li><a href="mailto:victor.pozzobon@yahoo.fr"> Contact me</a></li></ul>
+                <li class="p-name">&copy;Victor Pozzobon</li><li>Last update: July 2021</li><li><a href="mailto:victor.pozzobon@yahoo.fr"> Contact me</a></li></ul>
         </div>
 
         <div class="footer-col footer-col-2">
-            <p>Victor Pozzobon is an habilitated PhD leading research in biotechnology. Microalgae are his favourite microorganisms because of their photosynthetic ability. He deploys all  kinds of numerical tools to investigate cell growth, viability and secondary metabolites production. </p>
+            <p>Victor Pozzobon is a habilitated Ph.D. leading research in biotechnology. Microalgae are his favorite microorganisms because of their photosynthetic ability. He deploys all kinds of numerical tools to investigate cell growth, viability, and secondary metabolites production. </p>
         </div>
 
     </div>
