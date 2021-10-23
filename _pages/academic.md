@@ -48,9 +48,11 @@ hours of teachings, including lectures in amphitheaters.
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
+* [**Green microalgae in intermittent light: a meta-analysis assisted by machine learning.**](https://link.springer.com/article/10.1007/s10811-021-02603-z) Levasseur, W., **Pozzobon, V.** & Perre, P. (2021). _Journal of Applied Phycology_. [(Preprint)](/assets/preprints/Levasseur_2021_a.pdf)
+
 * [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://www.mdpi.com/2077-0375/11/7/496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496.
 
-* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: fast nitrogen quantification using spectrophotometer and machine learning.**](https://www.springer.com/journal/10811) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Associated repository)](https://github.com/victorpozzobon/PSOGAPLS_NitrogenSpectroscopy)  [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
+* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: fast nitrogen quantification using spectrophotometer and machine learning.**](https://link.springer.com/article/10.1007/s10811-021-02422-2) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Associated repository)](https://github.com/victorpozzobon/PSOGAPLS_NitrogenSpectroscopy)  [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
 
 * [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: growth, nitrogen uptake and pigment contents.**](https://www.sciencedirect.com/science/article/abs/pii/S0960852421003345) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 124995. [(Preprint)](/assets/preprints/Pozzobon_2021_a.pdf)
 
