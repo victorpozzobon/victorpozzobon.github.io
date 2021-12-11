@@ -26,7 +26,7 @@ I am involved in several research collaborations. The ones reported here are tho
 
 ### Teaching and trainings
 
-I direct or supervise Ph.D. students (2 in progress, 5 graduated), post-docs (2 at the moment), and numerous L- to M-level trainees.
+I direct or supervise Ph.D. students (3 in progress, 5 graduated), post-docs (2 at the moment), and numerous L- to M-level trainees.
 
 My formal teachings activities are:
 
