@@ -23,7 +23,7 @@ I am involved in several research collaborations. The ones reported here are tho
 * [**ABI – AgroParisTech**](https://chaire-abi-agroparistech.com/Home/) - on flow cytometry analysis of microalgae.
 
 <!--* EMIR – Monastir - Séjour scientifique d’une étudiante. -->
-<!--* A test. -->
+<!--* I also participated in several Ph.D. juries (0 as president, one as a reviewer, and one as a guest) and monitoring committees (1 in total). -->
 
 ### Teaching and trainings
 
