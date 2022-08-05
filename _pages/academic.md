@@ -51,6 +51,8 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Preprint under review.**](/assets/preprints/Cui_2022_a.pdf) Cui, N. & **Pozzobon, V.** (2022). _Under review_. [(Preprint)](/assets/preprints/Cui_2022_a.pdf)
 
+* [**Photosynthesis in bioremediation.**](https://www.sciencedirect.com/science/article/pii/B9780323904520000207) Levasseur, W., & **Pozzobon, V.** (2022). In _Microbes and Microbial Biotechnology for Green Remediation_ (pp. 247-263). Elsevier.
+
 * [**Green microalgae in intermittent light: a meta-analysis assisted by machine learning.**](https://link.springer.com/article/10.1007/s10811-021-02603-z) Levasseur, W., **Pozzobon, V.** & Perre, P. (2021). _Journal of Applied Phycology_. [(Preprint)](/assets/preprints/Levasseur_2021_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2021_a_Supplementary_data.pdf)
 
 * [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://www.mdpi.com/2077-0375/11/7/496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496.
