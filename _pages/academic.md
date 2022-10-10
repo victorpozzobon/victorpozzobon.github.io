@@ -49,7 +49,11 @@ hours of teachings, including lectures in amphitheaters.
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**Preprint under review.**](/assets/preprints/Cui_2022_a.pdf) Cui, N. & **Pozzobon, V.** (2022). _Under review_. [(Preprint)](/assets/preprints/Cui_2022_a.pdf)
+* [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/) Levasseur, W., **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
+
+* [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, XXX(XXX), XXX.
+
+* [**Impact of seconds to minutes photoperiods on _Chlorella vulgaris_ growth rate and chlorophyll a and b content.**](https://www.sciencedirect.com/) (**Pozzobon, V.** (2018).  _Algal research_, XXX, XXX-XXX. [(Preprint)](/assets/preprints/Pozzzobon_2022_a.pdf)
 
 * [**Photosynthesis in bioremediation.**](https://www.sciencedirect.com/science/article/pii/B9780323904520000207) Levasseur, W., & **Pozzobon, V.** (2022). In _Microbes and Microbial Biotechnology for Green Remediation_ (pp. 247-263). Elsevier.
 
