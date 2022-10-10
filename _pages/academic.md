@@ -49,11 +49,11 @@ hours of teachings, including lectures in amphitheaters.
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/) Levasseur, W., **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
+* [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/) Levasseur, W., **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
 
 * [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, XXX(XXX), XXX.
 
-* [**Impact of seconds to minutes photoperiods on _Chlorella vulgaris_ growth rate and chlorophyll a and b content.**](https://www.sciencedirect.com/) (**Pozzobon, V.** (2018).  _Algal research_, XXX, XXX-XXX. [(Preprint)](/assets/preprints/Pozzzobon_2022_a.pdf)
+* [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://www.sciencedirect.com/) (**Pozzobon, V.** (2018).  _Algal research_, XXX, XXX-XXX. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf)
 
 * [**Photosynthesis in bioremediation.**](https://www.sciencedirect.com/science/article/pii/B9780323904520000207) Levasseur, W., & **Pozzobon, V.** (2022). In _Microbes and Microbial Biotechnology for Green Remediation_ (pp. 247-263). Elsevier.
 
@@ -61,9 +61,9 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://www.mdpi.com/2077-0375/11/7/496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496.
 
-* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: fast nitrogen quantification using spectrophotometer and machine learning.**](https://link.springer.com/article/10.1007/s10811-021-02422-2) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Associated repository)](https://github.com/victorpozzobon/PSOGAPLS_NitrogenSpectroscopy)  [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
+* [**Nitrate and nitrite as mixed source of nitrogen for _Chlorella vulgaris_: fast nitrogen quantification using spectrophotometer and machine learning.**](https://link.springer.com/article/10.1007/s10811-021-02422-2) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Associated repository)](https://github.com/victorpozzobon/PSOGAPLS_NitrogenSpectroscopy)  [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
 
-* [**Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris: growth, nitrogen uptake and pigment contents.**](https://www.sciencedirect.com/science/article/abs/pii/S0960852421003345) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 124995. [(Preprint)](/assets/preprints/Pozzobon_2021_a.pdf)
+* [**Nitrate and nitrite as mixed source of nitrogen for _Chlorella vulgaris_: growth, nitrogen uptake and pigment contents.**](https://www.sciencedirect.com/science/article/abs/pii/S0960852421003345) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 124995. [(Preprint)](/assets/preprints/Pozzobon_2021_a.pdf)
 
 * [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://www.sciencedirect.com/science/article/pii/S1385894720341140) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam) [(Preprint)](/assets/preprints/Sassanis_2020_a.pdf)
 
@@ -79,7 +79,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**A review of high value-added molecules production by microalgae in light of the classification.**](https://www.sciencedirect.com/science/article/pii/S0734975020300422) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_, 41, 107545. [(Preprint)](/assets/preprints/Levasseur_2020_a.pdf)
 
-* [**Desmodesmus sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://www.sciencedirect.com/science/article/pii/S2589014X2030030X) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_, 10, 100409.
+* [**_Desmodesmus_ sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://www.sciencedirect.com/science/article/pii/S2589014X2030030X) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_, 10, 100409.
 
 * [**Shear stress computation in an millimeter thin flat panel photobioreactor: numerical design validated by experiments.**](https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bab.1894) Jiang, W., Levasseur, W., Casalinho, J., Martin, T., Puel, F., Perré, P., & **Pozzobon, V.** (2020). _Biotechnology and Applied Biochemistry_.
 
