@@ -53,7 +53,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, XXX(XXX), XXX.
 
-* [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://www.sciencedirect.com/) (**Pozzobon, V.** (2018).  _Algal research_, XXX, XXX-XXX. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf)
+* [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://www.sciencedirect.com/) (**Pozzobon, V.** (2022).  _Algal research_, XXX, XXX-XXX. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_a_Supplementary_Materials.pdf)
 
 * [**Photosynthesis in bioremediation.**](https://www.sciencedirect.com/science/article/pii/B9780323904520000207) Levasseur, W., & **Pozzobon, V.** (2022). In _Microbes and Microbial Biotechnology for Green Remediation_ (pp. 247-263). Elsevier.
 
