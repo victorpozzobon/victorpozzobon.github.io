@@ -49,11 +49,11 @@ hours of teachings, including lectures in amphitheaters.
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/) Levasseur, W., **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
+* [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/) **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
 
-* [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, XXX(XXX), XXX.
+* [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/2624-7402/4/4/61) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, 4(4), 951.
 
-* [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://www.sciencedirect.com/) (**Pozzobon, V.** (2022).  _Algal research_, XXX, XXX-XXX. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_a_Supplementary_Materials.pdf)
+* [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://www.sciencedirect.com/science/article/pii/S2211926422002454) **Pozzobon, V.** (2022).  _Algal research_, XXX, XXX-XXX. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_a_Supplementary_Materials.pdf)
 
 * [**Photosynthesis in bioremediation.**](https://www.sciencedirect.com/science/article/pii/B9780323904520000207) Levasseur, W., & **Pozzobon, V.** (2022). In _Microbes and Microbial Biotechnology for Green Remediation_ (pp. 247-263). Elsevier.
 
