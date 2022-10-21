@@ -41,7 +41,7 @@ Temperature field in both solid and gaseous phases within a reacting packed bed 
 
 ### Training
 
-I organize and animate a yearly OpenFOAM training in partnership with [ROMEO HPC center](https://romeo.univ-reims.fr/pages/aboutUs).
+I organize and animate a yearly [OpenFOAM training](http://www.chaire-biotechnologie.centralesupelec.fr/fr/formation/OFSchool), either internally of with partners (_e.g_., [ROMEO HPC center](https://romeo.univ-reims.fr/pages/aboutUs)).
 This event classically gathers about 20 participants for a 3-day OpenFOAM session during which various aspects of the tools are covered 
 (from very basic ones to running the code on a cluster). The teaching material is available for free on [ResearchGate](https://www.researchgate.net/publication/282272911_OpenFOAM_step_by_step_tutorial_'beginners'_version?_sg=LYfMsDdLYUWIBBdYK_Ye4cyt-KMydQTnrbNHBkOALZxSPRk9HIu1nYYoOXSRCJ2SvIifCwsnQ_7TfIyLMmuPo-8WQFoeJRwmYRgJt_bc.B-5cKQLUgea9SulNEHZputaODTWJ2F2WdmW1NA5mg1oYgp9jd5xvqMP3lAvcYFH2tCsIzO9rFbUZ_p0Jq77v7Q). 
 

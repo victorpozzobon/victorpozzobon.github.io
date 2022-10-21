@@ -27,22 +27,35 @@ I am involved in several research collaborations. The ones reported here are tho
 
 ### Teaching and trainings
 
-I direct(ed) or supervise(d) Ph.D. students (2 in progress, 6 graduated) and post-doctoral fellows as well as numerous BSc and MSc students.
+I direct(ed) or supervise(d) Ph.D. students (2 in progress, 6 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
+
+* [Development, modeling and optimization of CO2 separation process using membrane contactor : applied to hydrogen purification](https://www.theses.fr/2022UPAST040), defended by Sayali Ramdas Chavan on April 4 2022.
+
+* [Biotechnological performances of acclimated green microalgae cultures : effect of light and its modulations](https://www.theses.fr/2021UPAST084), defended by Wendie Levasseur on August 30 2021 ([Award](https://www.centralesupelec.fr/fr/impact-2021-prix-de-these-de-la-fondation-centralesupelec-0)).
+
+* [Production de biométhane à partir de biogaz par technologie de séparation par adsorption PSA : optimisation numérique par approche multi-échelle](https://www.theses.fr/2020UPAST043), defended by Najib Chouikhi on December 8 2020.
+
+* [Development of a system of small pressurizable bioreactors used to assess Saccharomyces cerevisiae's behaviour under CO₂ and O₂ pressure](https://www.theses.fr/2020UPASC038), defended by Na Cui on July 21 2020.
+
+* [Auto-échauffement d'un lit ventilé de matériaux carbonés : cas du bois torréfié](https://www.theses.fr/2019EMAC0012), defended by Amina Bouzarour on December 11 2019.
+
+* [Simulation du bullage dans un photobioréacteur](https://www.theses.fr/2018SACLC086), defended by Wenbiao Jiang on December 5 2018.
 
 My formal teachings activities are:
 
-* M2 - in charge of the _Non-Ideal Reactor_ course, ca. 30 h
+* M2 - in charge of the _Non-Ideal Reactor_ course, ca. 30 h/y
 
-* M2 - practicals on _CFD with Comsol_, ca. 14 h
+* M2 - practicals on _CFD with Comsol_, ca. 14 h/y
 
-* L3 - one-week boot camp on _Heat exchangers biofouling_, ca. 35 h
+* L3 - one-week boot camp on _Heat exchangers biofouling_, ca. 35 h/y
+
+* L3 - lecture and practicals on _Heat balance & transfers_, ca. 14 h/y
 
 * many other occasional or reoccurring involvements
 
 I also provide training to OpenFOAM, usually through 2 to 3-day sessions, once or twice a year.
 
-Finally, over the course of my Ph.D., I gave more than 250
-hours of teachings, including lectures in amphitheaters. 
+Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, including lectures in amphitheaters.
 
 ### Publications
 <!--APA modified style-->
@@ -51,9 +64,9 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/) **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
 
-* [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/2624-7402/4/4/61) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, 4(4), 951.
+* [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/2624-7402/4/4/61) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, 4(4), 951-968.
 
-* [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://www.sciencedirect.com/science/article/pii/S2211926422002454) **Pozzobon, V.** (2022).  _Algal research_, 102874. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_a_Supplementary_Materials.pdf)
+* [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://www.sciencedirect.com/science/article/pii/S2211926422002454) **Pozzobon, V.** (2022).  _Algal research_, 68, 102874. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_a_Supplementary_Materials.pdf)
 
 * [**Photosynthesis in bioremediation.**](https://www.sciencedirect.com/science/article/pii/B9780323904520000207) Levasseur, W., & **Pozzobon, V.** (2022). In _Microbes and Microbial Biotechnology for Green Remediation_ (pp. 247-263). Elsevier.
 
