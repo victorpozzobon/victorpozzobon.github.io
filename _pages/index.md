@@ -18,7 +18,7 @@ Still, my investigations are not limited to this field. I also have actions with
 completely different topics, such as fixed beds characterization for classical chemical engineering. 
 
 In my previous life, called Ph.D., I also investigated lignocellulosic biomass and concentrated solar power interaction. 
-This topic was more heat and mass transfer focused. It was part of the [Labex Solstice](https://www.labex-solstice.fr/en/) and hosted by [RAPSODEE](https://www.imt-mines-albi.fr/fr/rapsodee). 
+This topic was more heat and mass transfer focused. It was part of the [Labex Solstice](https://www.labex-solstice.fr/) and hosted by [RAPSODEE](https://www.imt-mines-albi.fr/fr/rapsodee).
 I deployed experiments and modeling in synergy to
 gain further insights about the couplings at stake during this unconventional way to upgrade biomass. The main conclusion
 was that this combination is a possible way to store solar power into chemical energy.

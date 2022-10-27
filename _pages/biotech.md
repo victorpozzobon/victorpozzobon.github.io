@@ -5,7 +5,7 @@ permalink: /biotech/
 ---
 # Biotechnology
 
-![Thoracospheara Heimii](/assets/images/background2.jpg){: style="float: right;width:50%; max-width:400px; margin:10px"}
+![Desmodesmus pleiomorphus var. Pozzobon](/assets/images/Desmodesmus_pleiomorphus_var_Pozzobon.png){: style="float: right;width:50%; max-width:400px; margin:10px"}
 Since 2015, I have been working in a biotechnology lab. As I deeply believe that you cannot model something
 you are not able to manipulate, I choose to get trained in biology. In addition to having acquired basic lab techniques, I 
 now train people to use **flow cytometry** and carry out pulse amplitude modulated (**PAM**) fluorescence assays. 
