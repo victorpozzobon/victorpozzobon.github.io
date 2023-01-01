@@ -27,7 +27,7 @@ I am involved in several research collaborations. The ones reported here are tho
 
 <!--* I was also invited to in several Ph.D. juries (0 as president, one as a reviewer, and one as a guest) and monitoring committees (1 in total). -->
 
-### Teaching and trainings
+### Supervision, teaching and trainings
 
 I direct(ed) or supervise(d) Ph.D. students (2 in progress, 6 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
 
@@ -64,7 +64,7 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor .**](https://www.mdpi.com/2071-1050/14/24/16587) Khlifi S., Lajili M., Perré P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24). [(Publisher open Access)](https://www.mdpi.com/2071-1050/14/24/16587/pdf?version=1671591701) [(PDF file)](/assets/preprints/Khlifi_2022_a.pdf)
+* [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor.**](https://www.mdpi.com/2071-1050/14/24/16587) Khlifi S., Lajili M., Perré P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24). [(Publisher open Access)](https://www.mdpi.com/2071-1050/14/24/16587/pdf?version=1671591701) [(PDF file)](/assets/preprints/Khlifi_2022_a.pdf)
 
 * [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/article/10.1007/s10811-022-02855-3) **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. 1-12. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
 
