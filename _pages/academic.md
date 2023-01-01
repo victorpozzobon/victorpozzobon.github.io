@@ -22,8 +22,10 @@ I am involved in several research collaborations. The ones reported here are tho
 
 * [**ABI – AgroParisTech**](https://chaire-abi-agroparistech.com/Home/) - on flow cytometry analysis of microalgae.
 
-<!--* EMIR – Monastir - Séjour scientifique d’une étudiante. -->
-<!--* I also participated in several Ph.D. juries (0 as president, one as a reviewer, and one as a guest) and monitoring committees (1 in total). -->
+* [**EMIR - IPEIM**](https://ipeim.rnu.tn/fra/pages/177/Pr%C3%A9sentation-de-laboratoire-EMIR) - on OpenFOAM application to woody biomass combustion optimization.
+
+
+<!--* I was also invited to in several Ph.D. juries (0 as president, one as a reviewer, and one as a guest) and monitoring committees (1 in total). -->
 
 ### Teaching and trainings
 
@@ -62,11 +64,11 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor .**](https://www.mdpi.com/2071-1050/14/24/16587) Khlifi S., Lajili M., Perré P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24).
+* [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor .**](https://www.mdpi.com/2071-1050/14/24/16587) Khlifi S., Lajili M., Perré P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24). [(Publisher open Access)](https://www.mdpi.com/2071-1050/14/24/16587/pdf?version=1671591701) [(PDF file)](/assets/preprints/Khlifi_2022_a.pdf)
 
-* [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/article/10.1007/s10811-022-02855-3) **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
+* [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/article/10.1007/s10811-022-02855-3) **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. 1-12. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
 
-* [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/2624-7402/4/4/61) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, 4(4), 951-968.
+* [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://www.mdpi.com/2624-7402/4/4/61) Cui N. & **Pozzobon, V.** (2022). _AgriEngineering_, 4(4), 951-968. [(Publisher open Access)](https://www.mdpi.com/2624-7402/4/4/61/pdf?version=1667291265) [(PDF file)](/assets/preprints/Cui_2022_a.pdf)
 
 * [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://www.sciencedirect.com/science/article/pii/S2211926422002454) **Pozzobon, V.** (2022).  _Algal research_, 68, 102874. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_a_Supplementary_Materials.pdf)
 
@@ -74,7 +76,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Green microalgae in intermittent light: a meta-analysis assisted by machine learning.**](https://link.springer.com/article/10.1007/s10811-021-02603-z) Levasseur, W., **Pozzobon, V.** & Perre, P. (2021). _Journal of Applied Phycology_. [(Preprint)](/assets/preprints/Levasseur_2021_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2021_a_Supplementary_data.pdf)
 
-* [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://www.mdpi.com/2077-0375/11/7/496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496.
+* [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://www.mdpi.com/2077-0375/11/7/496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496. [(Publisher open Access)](https://www.mdpi.com/2077-0375/11/7/496/pdf?version=1627041408) [(PDF file)](/assets/preprints/Chavan_2021_a.pdf)
 
 * [**Nitrate and nitrite as mixed source of nitrogen for _Chlorella vulgaris_: fast nitrogen quantification using spectrophotometer and machine learning.**](https://link.springer.com/article/10.1007/s10811-021-02422-2) **Pozzobon, V.**, Levasseur, W., Guerin, C. & Perre, P. (2021). _Journal of Applied Phycology_, 1-9. [(Associated repository)](https://github.com/victorpozzobon/PSOGAPLS_NitrogenSpectroscopy)  [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
 
@@ -98,7 +100,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Shear stress computation in an millimeter thin flat panel photobioreactor: numerical design validated by experiments.**](https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bab.1894) Jiang, W., Levasseur, W., Casalinho, J., Martin, T., Puel, F., Perré, P., & **Pozzobon, V.** (2020). _Biotechnology and Applied Biochemistry_.
 
-* [**Household aluminum foil matte and bright side reflectivity measurements: Application to a photobioreactor light concentrator design.**](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X) **Pozzobon, V.**, Levasseur, W., Do, K. V., Palpant, B., & Perré, P. (2020). _Biotechnology Reports_, 25, e00399. [(Associated repository)](https://github.com/victorpozzobon/aluminumFoilReflectivity) [(Open Access)](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X)
+* [**Household aluminum foil matte and bright side reflectivity measurements: Application to a photobioreactor light concentrator design.**](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X) **Pozzobon, V.**, Levasseur, W., Do, K. V., Palpant, B., & Perré, P. (2020). _Biotechnology Reports_, 25, e00399. [(Associated repository)](https://github.com/victorpozzobon/aluminumFoilReflectivity) [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X/pdfft?md5=746a57e5a7d6fe9b0cc833cb3adc1b7f&pid=1-s2.0-S2215017X1930373X-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2020_c.pdf)
 
 * [**Cottage cheese in a diet – a review.**](https://www.emerald.com/insight/content/doi/10.1108/NFS-03-2019-0073/full/html) **Pozzobon, V.**, & Pozzobon, C. (2019). _Nutrition & Food Science_. [(Preprint)](/assets/preprints/Pozzobon_2019_a.pdf)
 
@@ -189,4 +191,4 @@ My thesis is titled **Biomass gasification under high solar heat flux** and was 
 *   Prof. Sylvain Salvador (_director_)
 *   Dr. Jean-Jacques Bézian (_director_)
 
-It was financed by [Labex Solstice](https://www.labex-solstice.fr/en/). The text is available in full on [HAL](https://tel.archives-ouvertes.fr/tel-01255290/document) open archives.
+It was financed by [Labex Solstice](https://www.labex-solstice.fr/). The text is available in full on [HAL](https://tel.archives-ouvertes.fr/tel-01255290/document) open archives.
