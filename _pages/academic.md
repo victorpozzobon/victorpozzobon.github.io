@@ -64,9 +64,9 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**_Chlorella vulgaris_ acclimated cultivation under flashing light: an in-depth investigation under iso-actinic conditions.**](https://www.sciencedirect.com/) Levasseur, W., Perré, P., & **Pozzobon, V.** (2023).  _Algal research_. [(Preprint)](/assets/preprints/Levasseur_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2023_a_Supplementary_Materials.pdf)
+* [**_Chlorella vulgaris_ acclimated cultivation under flashing light: an in-depth investigation under iso-actinic conditions.**](https://www.sciencedirect.com/science/article/pii/S2211926423000097) Levasseur, W., Perré, P., & **Pozzobon, V.** (2023).  _Algal research_, 70, 102976. [(Preprint)](/assets/preprints/Levasseur_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2023_a_Supplementary_Materials.pdf)
 
-* [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor.**](https://www.mdpi.com/2071-1050/14/24/16587) Khlifi S., Lajili M., Perré P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24). [(Publisher open Access)](https://www.mdpi.com/2071-1050/14/24/16587/pdf?version=1671591701) [(PDF file)](/assets/preprints/Khlifi_2022_a.pdf)
+* [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor.**](https://www.mdpi.com/2071-1050/14/24/16587) Khlifi S., Lajili M., Perré P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24), 16587. [(Publisher open Access)](https://www.mdpi.com/2071-1050/14/24/16587/pdf?version=1671591701) [(PDF file)](/assets/preprints/Khlifi_2022_a.pdf)
 
 * [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://link.springer.com/article/10.1007/s10811-022-02855-3) **Pozzobon, V.** & Camarena-Bernard C. (2022). _Journal of Applied Phycology_. 1-12. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
 
@@ -137,6 +137,8 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 * [**Radiative pyrolysis of wet wood under intermediate heat flux: Experiments and modeling.**](https://www.sciencedirect.com/science/article/pii/S0378382014002896) **Pozzobon, V.**, Salvador, S., Bézian, J. J., El-Hafi, M., Le Maoult, Y., & Flamant, G. (2014). _Fuel Processing Technology_, 128, 319-330. [(Preprint)](/assets/preprints/Pozzobon_2014_a.pdf)
 
 ### Invitations as guest speaker
+
+* **Machine learning activities at the Chair of Biotechnology of CentraleSupélec.** _**Pozzobon, V.**_ (2023, January). Invited talk, Unité PROSE, INRAE, Gif-sur-Yvette, France.
 
 * **Emergence of the behavior of a population from its individuals: application to a photobioreactor.** _**Pozzobon, V.**_ (2021, March). Invited talk, Unité PROSE, INRAE, Antony, France.
 
