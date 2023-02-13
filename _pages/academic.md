@@ -64,6 +64,8 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
+* [**A Novel Strategy to Enhance Antioxidant Content in _Saccharomyces Cerevisiae_ Based on Oxygen Pressure .**](https://www.mdpi.com/2306-5354/10/2/246) Cui N., Perré P., Michiels E. & **Pozzobon, V.** (2023). _Bioengineering_, 10(2), 246. [(Publisher open Access)](https://www.mdpi.com/2306-5354/10/2/246/pdf?version=1676291189) [(PDF file)](/assets/preprints/Cui_2023_a.pdf)
+
 * [**_Chlorella vulgaris_ acclimated cultivation under flashing light: an in-depth investigation under iso-actinic conditions.**](https://www.sciencedirect.com/science/article/pii/S2211926423000097) Levasseur, W., Perré, P., & **Pozzobon, V.** (2023).  _Algal research_, 70, 102976. [(Preprint)](/assets/preprints/Levasseur_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2023_a_Supplementary_Materials.pdf)
 
 * [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor.**](https://www.mdpi.com/2071-1050/14/24/16587) Khlifi S., Lajili M., Perré P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24), 16587. [(Publisher open Access)](https://www.mdpi.com/2071-1050/14/24/16587/pdf?version=1671591701) [(PDF file)](/assets/preprints/Khlifi_2022_a.pdf)
