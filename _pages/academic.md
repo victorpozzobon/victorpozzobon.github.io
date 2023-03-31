@@ -140,7 +140,10 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Invitations as guest speaker
 
-* **Machine learning activities at the Chair of Biotechnology of CentraleSupélec.** _**Pozzobon, V.**_ (2023, January). Invited talk, Unité PROSE, INRAE, Gif-sur-Yvette, France.
+
+* **Modélisation biologique et design de photobioréacteurs pour la valorisation de biomasse microalgale** (part of the round table: _La pluridisciplinarité, un atout pour la bioraffinerie et la valorisation de la biomasse._) _**Pozzobon, V.**_ (2023, March). Invited talk, Forum Labo, Paris, France.
+
+* **Machine learning activities at the Chair of Biotechnology of CentraleSupélec.** _**Pozzobon, V.**_ (2023, January). Invited talk, HubIA CentraleSupélec, Gif-sur-Yvette, France.
 
 * **Emergence of the behavior of a population from its individuals: application to a photobioreactor.** _**Pozzobon, V.**_ (2021, March). Invited talk, Unité PROSE, INRAE, Antony, France.
 
