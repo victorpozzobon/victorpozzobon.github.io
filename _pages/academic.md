@@ -25,7 +25,11 @@ I am involved in several research collaborations. The ones reported here are tho
 * [**EMIR - IPEIM**](https://ipeim.rnu.tn/fra/pages/177/Pr%C3%A9sentation-de-laboratoire-EMIR) - on OpenFOAM application to woody biomass combustion optimization.
 
 
-<!--* I was also invited to in several Ph.D. juries (0 as president, one as a reviewer, and one as a guest) and monitoring committees (1 in total). -->
+<!--* I was also invited to in several Ph.D. juries (0 as president, three as a reviewer, and two as a guest) and monitoring committees (two in total). -->
+<!--President: 0
+Reviewer: 1. PhD Ruming Pan (IMFT Gérald), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric)
+Guest: 1. PhD Franco Otaola 2022, 2. PhD Shalolin Liu 2023
+Monitoring commites: 1. Marion Pointcheval 2023, 2. Elise Viau 2023-->
 
 ### Supervision, teaching and trainings
 
@@ -63,6 +67,8 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 <!--APA modified style-->
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
+
+* [**Impact of 3D printing materials on mircoalga _Chlorella vulgaris_.**](https://www.sciencedirect.com/science/article/pii/S2211926423000097) **Pozzobon, V.**, Otaola F., Arnoudts C. & Lagirarde J. (2023).  _Bioresource Technology_, 129807. [(Preprint)](/assets/preprints/Pozzobon_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2023_a_Supplementary_Materials.pdf)
 
 * [**Assessment of Photosynthetic Carbon Capture versus Carbon Footprint of an Industrial Microalgal Process.**](https://www.mdpi.com/2076-3417/13/8/5193) Oliver A., Camarena-Bernard C., Lagirarde J. & **Pozzobon, V.** (2023). _Applied sciences_, 13(8), 5193. [(Publisher open Access)](https://www.mdpi.com/2076-3417/13/8/5193/pdf?version=1682072160) [(PDF file)](/assets/preprints/Oliver_2023_a.pdf)
 
