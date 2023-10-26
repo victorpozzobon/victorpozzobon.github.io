@@ -68,7 +68,7 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**Impact of 3D printing materials on mircoalga _Chlorella vulgaris_.**](https://www.sciencedirect.com/science/article/pii/S2211926423000097) **Pozzobon, V.**, Otaola F., Arnoudts C. & Lagirarde J. (2023).  _Bioresource Technology_, 129807. [(Preprint)](/assets/preprints/Pozzobon_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2023_a_Supplementary_Materials.pdf)
+* [**Impact of 3D printing materials on mircoalga _Chlorella vulgaris_.**](https://doi.org/10.1016/j.biortech.2023.129807) **Pozzobon, V.**, Otaola F., Arnoudts C. & Lagirarde J. (2023).  _Bioresource Technology_, 389, 129807. [(Preprint)](/assets/preprints/Pozzobon_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2023_a_Supplementary_Materials.pdf)
 
 * [**Assessment of Photosynthetic Carbon Capture versus Carbon Footprint of an Industrial Microalgal Process.**](https://www.mdpi.com/2076-3417/13/8/5193) Oliver A., Camarena-Bernard C., Lagirarde J. & **Pozzobon, V.** (2023). _Applied sciences_, 13(8), 5193. [(Publisher open Access)](https://www.mdpi.com/2076-3417/13/8/5193/pdf?version=1682072160) [(PDF file)](/assets/preprints/Oliver_2023_a.pdf)
 
