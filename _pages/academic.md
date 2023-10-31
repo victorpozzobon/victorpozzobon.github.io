@@ -27,9 +27,9 @@ I am involved in several research collaborations. The ones reported here are tho
 
 <!--* I was also invited to in several Ph.D. juries (0 as president, three as a reviewer, and two as a guest) and monitoring committees (two in total). -->
 <!--President: 0
-Reviewer: 1. PhD Ruming Pan (IMFT Gérald), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric)
-Guest: 1. PhD Franco Otaola 2022, 2. PhD Shalolin Liu 2023
-Monitoring commites: 1. Marion Pointcheval 2023, 2. Elise Viau 2023-->
+Reviewer: 1. PhD Ruming Pan (IMFT Gérald), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric), 4.
+Guest: 1. PhD Franco Otaola 2022, 2. PhD Shalolin Liu 2023, 3.
+Monitoring commites: 1. Marion Pointcheval 2023, 2. Elise Viau 2023, 3. -->
 
 ### Supervision, teaching and trainings
 
