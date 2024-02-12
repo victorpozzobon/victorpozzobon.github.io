@@ -68,7 +68,9 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-* [**Heterotrophic culture of _Scenedesmus almeriensis_ for lutein productivity enhancement.**](https://doi.org/10.1007/s10811-024-03186-1) Camarena-Bernard C., Jullien T. & **Pozzobon, V.** (2024). _Journal of Applied Phycology_. [(Preprint)](/assets/preprints/Camarena_2024_a.pdf)
+<!--* [**Heterotrophic culture of _Scenedesmus almeriensis_ for lutein productivity enhancement.**](https://doi.org/10.1007/s10811-024-03186-1) Camarena-Bernard C., Jullien T. & **Pozzobon, V.** (2024). _Journal of Applied Phycology_. 1-14 [(Preprint)](/assets/preprints/Camarena_2024_a.pdf)-->
+
+* [**Heterotrophic culture of _Scenedesmus almeriensis_ for lutein productivity enhancement.**](https://doi.org/10.1007/s10811-024-03186-1) Camarena-Bernard C., Jullien T. & **Pozzobon, V.** (2024). _Journal of Applied Phycology_. 1-14 [(Preprint)](/assets/preprints/Camarena_2024_a.pdf)
 
 * [**Impact of 3D printing materials on microalga _Chlorella vulgaris_.**](https://doi.org/10.1016/j.biortech.2023.129807) **Pozzobon, V.**, Otaola F., Arnoudts C. & Lagirarde J. (2023).  _Bioresource Technology_, 389, 129807. [(Preprint)](/assets/preprints/Pozzobon_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2023_a_Supplementary_Materials.pdf)
 
@@ -197,6 +199,8 @@ My thesis is titled **Modeling as a tool for chemical and biochemical engineerin
 *   Prof. Gérald Debenest (_sponsor_)
 *   Prof. Patrick Perré (_supervisor_)
 
+The text is available in full [here](/assets/preprints/HDR_Pozzobon_2020.pdf).
+
 ### Ph.D. Thesis
 
 My thesis is titled **Biomass gasification under high solar heat flux** and was defended in November 2015 at
@@ -210,4 +214,4 @@ My thesis is titled **Biomass gasification under high solar heat flux** and was 
 *   Prof. Sylvain Salvador (_director_)
 *   Dr. Jean-Jacques Bézian (_director_)
 
-It was financed by [Labex Solstice](https://www.labex-solstice.fr/). The text is available in full on [HAL](https://tel.archives-ouvertes.fr/tel-01255290/document) open archives.
+It was financed by [Labex Solstice](https://www.labex-solstice.fr/). The text is available in full [here](/assets/preprints/Doctoral_Thesis_Pozzobon_2015.pdf) or on [HAL](https://tel.archives-ouvertes.fr/tel-01255290/document) open archives.
