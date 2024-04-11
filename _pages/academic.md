@@ -68,6 +68,8 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
+* [**Microalgal cell division tracking using CFSE.**](https://doi.org/10.1016/j.algal.2024.103501) **Pozzobon, V.**, Lagirarde, J., Arnoudts, C., & Levasseur, W. (2024).  _Algal research_, 103501. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S2211926424001139/pdfft?md5=895e8bd5eb1d2e0069187b16953579f0&pid=1-s2.0-S2211926424001139-main.pdf)
+
 * [**Microalgae bio-reactive façade: Location and weather-based systematic optimization.**](https://doi.org/10.1016/j.buildenv.2024.111352) **Pozzobon, V.** (2024).  _Building and Environment_, 111352. [(Preprint)](/assets/preprints/Pozzobon_2024_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2024_b_Supplementary_Materials.pdf)
 
 * [**Systematic formulation of brewery effluent for high-efficiency epuration and food-grade microalgae production.**](https://doi.org/10.1016/j.biteb.2024.101795) **Pozzobon, V.**, Lemaire J., & Lagirarde J. (2024). _Bioresource Technology Reports_, 101795. [(Preprint)](/assets/preprints/Pozzobon_2024_a.pdf)
