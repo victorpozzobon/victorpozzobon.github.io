@@ -24,6 +24,7 @@ I am involved in several research collaborations. The ones reported here are tho
 
 * [**EMIR - IPEIM**](https://ipeim.rnu.tn/fra/pages/177/Pr%C3%A9sentation-de-laboratoire-EMIR) - on OpenFOAM application to woody biomass combustion optimization.
 
+* [**I2M - Université de Bordeaux**](https://www.i2m.u-bordeaux.fr/en) - on DEM/OpenFOAM coupling for heat transfer in packed bed reactors.
 
 <!--* I was also invited to in several Ph.D. juries (0 as president, three as a reviewer, and two as a guest) and monitoring committees (two in total). -->
 <!--President: 0
@@ -72,7 +73,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Microalgae bio-reactive façade: A radiative-convective model powered by hourly illumination computation and historical weather data.**](https://doi.org/10.1016/j.jobe.2024.109407) **Pozzobon, V.** (2024).  _Journal of Building Engineering_, 90, 109407. [(Preprint)](/assets/preprints/Pozzobon_2024_d.pdf)
 
-<!--* [**Multi-scale investigation of heat and  momentum transfer in packed-bed TES systems up to 800 K.**](ffffffffffff) Liu, S., Ahmadi-Senichault, A., **Pozzobon, V.**, & Lachaud, J. (2024).  _Applied energy_, XXXVOL, XXP-XXXp. [(Publisher open Access)](ffffffffff.pdf) [(PDF file)](/assets/preprints/Liu_2024_a.pdf)-->
+* [**Multi-scale investigation of heat and  momentum transfer in packed-bed TES systems up to 800 K.**](https://doi.org/10.1016/j.apenergy.2024.123285) Liu, S., Ahmadi-Senichault, A., **Pozzobon, V.**, & Lachaud, J. (2024).  _Applied energy_, 366, 123285. [(Publisher open Access)](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/science/article/pii/S0306261924006688/pdfft?md5=b38ca51f9687323d5fa2fdb3750cf4a6&pid=1-s2.0-S0306261924006688-main.pdf) [(PDF file)](/assets/preprints/Liu_2024_a.pdf)
 
 * [**Microalgal cell division tracking using CFSE.**](https://doi.org/10.1016/j.algal.2024.103501) **Pozzobon, V.**, Lagirarde, J., Arnoudts, C., & Levasseur, W. (2024).  _Algal research_, 80, 103501. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S2211926424001139/pdfft?md5=895e8bd5eb1d2e0069187b16953579f0&pid=1-s2.0-S2211926424001139-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2024_c.pdf)
 
@@ -110,7 +111,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 * [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://doi.org/10.1016/j.cej.2020.128009) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 417, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam) [(Preprint)](/assets/preprints/Sassanis_2020_a.pdf)
 
-* [**Effect of increasing oxygen partial pressure on _Saccharomyces cerevisiae_ growth and antioxidant and enzyme productions.**](hhttps://doi.org/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
+* [**Effect of increasing oxygen partial pressure on _Saccharomyces cerevisiae_ growth and antioxidant and enzyme productions.**](https://doi.org/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
 
 * [**Pyrolysis of wood and PVC mixtures: thermal behaviour and kinetic modelling.**](https://doi.org/10.1007/s13399-020-00952-2) Ephraim, A., **Pozzobon, V.**, Lebonnois, D., Peregrina, C., Sharrock, P., Nzihou, A., & Minh, D. P. (2020). _Biomass Conversion and Biorefinery_, 13, 1-15.
 
