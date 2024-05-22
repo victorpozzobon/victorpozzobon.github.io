@@ -33,7 +33,8 @@ I take advantage of it and engage in MOOCs on a regular basis.
 They revolve around everything from cooking to statistics. 
 If you like my opinion on any MOOCs I completed (some links may be dead, sorry), do not hesitate to send me an email.
 
-[L'analyse financière pour tous  (Financial analysis)](https://www.fun-mooc.fr/en/cours/lanalyse-financiere-pour-tous/) in 2021. <br/>
+[Introduction à l'Analyse du Cycle de Vie - de la pensée à la pratique (Life cycle analysis)](https://www.edx.org/course/cycle-de-vie) in 2024. <br/>
+[L'analyse financière pour tous (Financial analysis)](https://www.fun-mooc.fr/en/cours/lanalyse-financiere-pour-tous/) in 2021. <br/>
 [La compta pour tous (Accounting)](https://www.fun-mooc.fr/en/cours/la-compta-pour-tous/) in 2021. <br/>
 [Design of Experiments Specialization](https://www.coursera.org/specializations/design-experiments) in 2021. <br/>
 [Managing Successful Team Meetings](https://alison.com/course/business-communication-managing-successful-team-meetings-revised) in 2021. <br/>
