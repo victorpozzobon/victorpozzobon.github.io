@@ -69,6 +69,8 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
+* [** A Comprehensive Review of Syngas Production, Fuel Properties, and Operational Parameters for Biomass Conversion **](https://doi.org/10.3390/en17153646) Khlifi S., **Pozzobon, V.**, & Lajili M. (2024). _Energies_, 17(15), 3646. [(Publisher open Access)](https://www.mdpi.com/1996-1073/17/15/3646/pdf?version=1721828455) [(PDF file)](/assets/preprints/Khlifi_2024_a.pdf)
+
 * [**Evolving perspectives on lutein production from microalgae - A focus on productivity and heterotrophic culture.**](https://doi.org/10.1016/j.biotechadv.2024.108375) Camarena-Bernard, C. & **Pozzobon, V.** (2024). _Biotechnology Advances_, 73, 108375. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S0734975024000697/pdfft?md5=e89ef3b24871edbf0fc7fe1710210504&pid=1-s2.0-S0734975024000697-main.pdf) [(PDF file)](/assets/preprints/Camarena_2024_b.pdf)
 
 * [**Microalgae bio-reactive façade: A radiative-convective model powered by hourly illumination computation and historical weather data.**](https://doi.org/10.1016/j.jobe.2024.109407) **Pozzobon, V.** (2024).  _Journal of Building Engineering_, 90, 109407. [(Preprint)](/assets/preprints/Pozzobon_2024_d.pdf)
