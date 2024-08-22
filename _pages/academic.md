@@ -70,7 +70,9 @@ The list of the peer-reviewed publications I authored or co-authored, as well as
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
 0. [**Acclimation dynamics of _Chlorella vulgaris_ to sudden light change.**](https://doi.org/10.1016/j.algal.2024.103661) Oliver, A., Perré, P., & **Pozzobon, V.** (2024).  _Algal research_, 82, 103661. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S221192642400273X/pdfft?md5=4eb64ec491f54e4ee85fd53453c8565e&pid=1-s2.0-S221192642400273X-main.pdf) [(PDF file)](/assets/preprints/Oliver_2024_a.pdf)
+
 0. [**_Chlorella vulgaris_ cold preservation (4∘C) as a means to stabilize biomass for bioreactor inoculation: A six-month study.**](https://doi.org/10.1016/j.aquaeng.2024.102449) **Pozzobon, V.**, Levasseur, W., & Camarena-Bernard, C. (2024). _Aquacultural Engineering_, 107, 102449. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S0144860924000608/pdfft?md5=bb28e93cac379baa6f50a4532b47fd0d&pid=1-s2.0-S0144860924000608-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2024_e.pdf)
+
 0. [**A Comprehensive Review of Syngas Production, Fuel Properties, and Operational Parameters for Biomass Conversion.**](https://doi.org/10.3390/en17153646) Khlifi S., **Pozzobon, V.**, & Lajili M. (2024). _Energies_, 17(15), 3646. [(Publisher open Access)](https://www.mdpi.com/1996-1073/17/15/3646/pdf?version=1721828455) [(PDF file)](/assets/preprints/Khlifi_2024_a.pdf)
 {: reversed="reversed"}
 
