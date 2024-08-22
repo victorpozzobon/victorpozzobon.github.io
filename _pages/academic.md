@@ -74,103 +74,101 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 0. [**_Chlorella vulgaris_ cold preservation (4∘C) as a means to stabilize biomass for bioreactor inoculation: A six-month study.**](https://doi.org/10.1016/j.aquaeng.2024.102449) **Pozzobon, V.**, Levasseur, W., & Camarena-Bernard, C. (2024). _Aquacultural Engineering_, 107, 102449. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S0144860924000608/pdfft?md5=bb28e93cac379baa6f50a4532b47fd0d&pid=1-s2.0-S0144860924000608-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2024_e.pdf)
 
 0. [**A Comprehensive Review of Syngas Production, Fuel Properties, and Operational Parameters for Biomass Conversion.**](https://doi.org/10.3390/en17153646) Khlifi S., **Pozzobon, V.**, & Lajili M. (2024). _Energies_, 17(15), 3646. [(Publisher open Access)](https://www.mdpi.com/1996-1073/17/15/3646/pdf?version=1721828455) [(PDF file)](/assets/preprints/Khlifi_2024_a.pdf)
+
+0. [**Evolving perspectives on lutein production from microalgae - A focus on productivity and heterotrophic culture.**](https://doi.org/10.1016/j.biotechadv.2024.108375) Camarena-Bernard, C. & **Pozzobon, V.** (2024). _Biotechnology Advances_, 73, 108375. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S0734975024000697/pdfft?md5=e89ef3b24871edbf0fc7fe1710210504&pid=1-s2.0-S0734975024000697-main.pdf) [(PDF file)](/assets/preprints/Camarena_2024_b.pdf)
+
+0. [**Microalgae bio-reactive façade: A radiative-convective model powered by hourly illumination computation and historical weather data.**](https://doi.org/10.1016/j.jobe.2024.109407) **Pozzobon, V.** (2024).  _Journal of Building Engineering_, 90, 109407. [(Preprint)](/assets/preprints/Pozzobon_2024_d.pdf)
+
+0. [**Multi-scale investigation of heat and  momentum transfer in packed-bed TES systems up to 800 K.**](https://doi.org/10.1016/j.apenergy.2024.123285) Liu, S., Ahmadi-Senichault, A., **Pozzobon, V.**, & Lachaud, J. (2024).  _Applied energy_, 366, 123285. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S0306261924006688/pdfft?md5=b38ca51f9687323d5fa2fdb3750cf4a6&pid=1-s2.0-S0306261924006688-main.pdf) [(PDF file)](/assets/preprints/Liu_2024_a.pdf)
+
+0. [**Microalgal cell division tracking using CFSE.**](https://doi.org/10.1016/j.algal.2024.103501) **Pozzobon, V.**, Lagirarde, J., Arnoudts, C., & Levasseur, W. (2024).  _Algal research_, 80, 103501. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S2211926424001139/pdfft?md5=895e8bd5eb1d2e0069187b16953579f0&pid=1-s2.0-S2211926424001139-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2024_c.pdf)
+
+0. [**Microalgae bio-reactive façade: Location and weather-based systematic optimization.**](https://doi.org/10.1016/j.buildenv.2024.111352) **Pozzobon, V.** (2024).  _Building and Environment_, 253, 111352. [(Preprint)](/assets/preprints/Pozzobon_2024_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2024_b_Supplementary_Materials.pdf)
+
+0. [**Systematic formulation of brewery effluent for high-efficiency epuration and food-grade microalgae production.**](https://doi.org/10.1016/j.biteb.2024.101795) **Pozzobon, V.**, Lemaire, J. & Lagirarde, J. (2024). _Bioresource Technology Reports_, 25, 101795. [(Preprint)](/assets/preprints/Pozzobon_2024_a.pdf)
+
+0. [**Heterotrophic culture of _Scenedesmus almeriensis_ for lutein productivity enhancement.**](https://doi.org/10.1007/s10811-024-03186-1) Camarena-Bernard, C., Jullien, T. & **Pozzobon, V.** (2024). _Journal of Applied Phycology_. 1-14 [(Preprint)](/assets/preprints/Camarena_2024_a.pdf)
+
+0. [**Impact of 3D printing materials on microalga _Chlorella vulgaris_.**](https://doi.org/10.1016/j.biortech.2023.129807) **Pozzobon, V.**, Otaola, F., Arnoudts, C. & Lagirarde, J. (2023).  _Bioresource Technology_, 389, 129807. [(Preprint)](/assets/preprints/Pozzobon_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2023_a_Supplementary_Materials.pdf)
+
+0. [**Assessment of Photosynthetic Carbon Capture versus Carbon Footprint of an Industrial Microalgal Process.**](https://doi.org/10.3390/app13085193) Oliver, A., Camarena-Bernard, C., Lagirarde, J. & **Pozzobon, V.** (2023). _Applied sciences_, 13(8), 5193. [(Publisher open Access)](https://www.mdpi.com/2076-3417/13/8/5193/pdf?version=1682072160) [(PDF file)](/assets/preprints/Oliver_2023_a.pdf)
+
+0. [**A Novel Strategy to Enhance Antioxidant Content in _Saccharomyces Cerevisiae_ Based on Oxygen Pressure.**](https://doi.org/10.3390/bioengineering10020246) Cui, N., Perré, P., Michiels, E. & **Pozzobon, V.** (2023). _Bioengineering_, 10(2), 246. [(Publisher open Access)](https://www.mdpi.com/2306-5354/10/2/246/pdf?version=1676291189) [(PDF file)](/assets/preprints/Cui_2023_a.pdf)
+
+0. [**_Chlorella vulgaris_ acclimated cultivation under flashing light: an in-depth investigation under iso-actinic conditions.**](https://doi.org/10.1016/j.algal.2023.102976) Levasseur, W., Perré, P., & **Pozzobon, V.** (2023).  _Algal research_, 70, 102976. [(Preprint)](/assets/preprints/Levasseur_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2023_a_Supplementary_Materials.pdf)
+
+0. [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor.**](https://doi.org/10.3390/su142416587) Khlifi, S., Lajili, M., Perré, P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24), 16587. [(Publisher open Access)](https://www.mdpi.com/2071-1050/14/24/16587/pdf?version=1671591701) [(PDF file)](/assets/preprints/Khlifi_2022_a.pdf)
+
+0. [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://doi.org/10.1007/s10811-022-02855-3) **Pozzobon, V.** & Camarena-Bernard, C. (2022). _Journal of Applied Phycology_. 35, 1-12. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
+
+0. [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://doi.org/10.3390/agriengineering4040061) Cui, N. & **Pozzobon, V.** (2022). _AgriEngineering_, 4(4), 951-968. [(Publisher open Access)](https://www.mdpi.com/2624-7402/4/4/61/pdf?version=1667291265) [(PDF file)](/assets/preprints/Cui_2022_a.pdf)
+
+0. [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://doi.org/10.1016/j.algal.2022.102874) **Pozzobon, V.** (2022).  _Algal research_, 68, 102874. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_a_Supplementary_Materials.pdf)
+
+0. [**Photosynthesis in bioremediation.**](https://doi.org/10.1016/B978-0-323-90452-0.00020-7) Levasseur, W., & **Pozzobon, V.** (2022). In _Microbes and Microbial Biotechnology for Green Remediation_ (pp. 247-263). Elsevier.
+
+0. [**Green microalgae in intermittent light: a meta-analysis assisted by machine learning.**](https://doi.org/10.1007/s10811-021-02603-z) Levasseur, W., **Pozzobon, V.** & Perre, P. (2021). _Journal of Applied Phycology_, 34, 135-158. [(Preprint)](/assets/preprints/Levasseur_2021_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2021_a_Supplementary_data.pdf)
+
+0. [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://doi.org/10.3390/membranes11070496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496. [(Publisher open Access)](https://www.mdpi.com/2077-0375/11/7/496/pdf?version=1627041408) [(PDF file)](/assets/preprints/Chavan_2021_a.pdf)
+
+0. [**Nitrate and nitrite as mixed source of nitrogen for _Chlorella vulgaris_: fast nitrogen quantification using spectrophotometer and machine learning.**](https://doi.org/10.1007/s10811-021-02422-2) **Pozzobon, V.**, Levasseur, W., Guerin, C., & Perre, P. (2021). _Journal of Applied Phycology_, 33, 1-9. [(Associated repository)](https://github.com/victorpozzobon/PSOGAPLS_NitrogenSpectroscopy)  [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
+
+0. [**Nitrate and nitrite as mixed source of nitrogen for _Chlorella vulgaris_: growth, nitrogen uptake and pigment contents.**](https://doi.org/10.1016/j.biortech.2021.124995) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 330, 124995. [(Preprint)](/assets/preprints/Pozzobon_2021_a.pdf)
+
+0. [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://doi.org/10.1016/j.cej.2020.128009) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 417, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam) [(Preprint)](/assets/preprints/Sassanis_2020_a.pdf)
+
+0. [**Effect of increasing oxygen partial pressure on _Saccharomyces cerevisiae_ growth and antioxidant and enzyme productions.**](https://doi.org/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
+
+0. [**Pyrolysis of wood and PVC mixtures: thermal behaviour and kinetic modelling.**](https://doi.org/10.1007/s13399-020-00952-2) Ephraim, A., **Pozzobon, V.**, Lebonnois, D., Peregrina, C., Sharrock, P., Nzihou, A., & Minh, D. P. (2020). _Biomass Conversion and Biorefinery_, 13, 1-15.
+
+0. [**Machine learning processing of microalgae flow cytometry readings: illustrated with _Chlorella vulgaris_ viability assays.**](https://doi.org/10.1007/s10811-020-02180-7) **Pozzobon, V.**, Levasseur, W., Viau, E., Michiels, E., Clement, T., & Perre, P. (2020). _Journal of Applied Phycology_, 32, 1-10. [(Preprint)](/assets/preprints/Pozzobon_2020_b.pdf)
+
+0. [**Mass transfer in hollow fiber membrane contactor: Computational fluid dynamics determination of the shell side resistance.**](https://doi.org/10.1016/j.seppur.2020.116674) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 241, 116674. [(Preprint)](/assets/preprints/Pozzobon_2020_a.pdf)
+
+0. [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://doi.org/10.1016/j.jtbi.2020.110293) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293. [(Preprint)](/assets/preprints/Pozzobon_2020_d.pdf)
+
+0. [**A review of high value-added molecules production by microalgae in light of the classification.**](https://doi.org/10.1016/j.biotechadv.2020.107545) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_, 41, 107545. [(Preprint)](/assets/preprints/Levasseur_2020_a.pdf)
+
+0. [**_Desmodesmus_ sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://doi.org/10.1016/j.biteb.2020.100409) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_, 10, 100409.
+
+0. [**Shear stress computation in an millimeter thin flat panel photobioreactor: numerical design validated by experiments.**](https://doi.org/10.1002/bab.1894) Jiang, W., Levasseur, W., Casalinho, J., Martin, T., Puel, F., Perré, P., & **Pozzobon, V.** (2020). _Biotechnology and Applied Biochemistry_, 68(1), 60-70.
+
+0. [**Household aluminum foil matte and bright side reflectivity measurements: Application to a photobioreactor light concentrator design.**](https://doi.org/10.1016/j.btre.2019.e00399) **Pozzobon, V.**, Levasseur, W., Do, K. V., Palpant, B., & Perré, P. (2020). _Biotechnology Reports_, 25, e00399. [(Associated repository)](https://github.com/victorpozzobon/aluminumFoilReflectivity) [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X/pdfft?md5=746a57e5a7d6fe9b0cc833cb3adc1b7f&pid=1-s2.0-S2215017X1930373X-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2020_c.pdf)
+
+0. [**Cottage cheese in a diet – a review.**](https://doi.org/10.1108/NFS-03-2019-0073) **Pozzobon, V.**, & Pozzobon, C. (2019). _Nutrition & Food Science_, 49(6), 1265-1274. [(Preprint)](/assets/preprints/Pozzobon_2019_a.pdf)
+
+0. [**Experimental and numerical investigation binary mixture mass transfer in a gas–Liquid membrane contactor.**](https://doi.org/10.1016/j.memsci.2018.10.042) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2019). _Journal of Membrane Science_, 572, 1-11.
+
+0. [**Impact of seconds to minutes photoperiods on _Chlorella vulgaris_ growth rate and chlorophyll a and b content.**](https://doi.org/10.1016/j.algal.2018.10.007) Levasseur, W., Taidi, B., Lacombe, R., Perré, P., & **Pozzobon, V.** (2018).  _Algal research_, 36, 10-16. [(Preprint)](/assets/preprints/Levasseur_2018_a.pdf)
+
+0. [**Hydrodynamics of a packed bed of non-spherical polydisperse particles: A fully virtual approach validated by experiments.**](https://doi.org/10.1016/j.cej.2018.07.214) **Pozzobon, V.**, Colin, J., & Perré, P. (2018).  _Chemical Engineering Journal_, 354, 126-136. [(Preprint)](/assets/preprints/Pozzobon_2018_g.pdf)
+
+0. [**Biomass gasification under high solar heat flux: Advanced modeling.**](https://doi.org/10.1016/j.fuel.2017.10.011) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2018). _Fuel_, 214, 300-313. [(Preprint)](/assets/preprints/Pozzobon_2018_f.pdf)
+
+0. [**10% Loss of Incident Power through Solar Reactor Window: Myth or Good Rule of Thumb?**](https://doi.org/10.3103/S0003701X18020093) **Pozzobon, V.** (2018). _Applied Solar Energy_, 54(2), 131-133. [(Preprint)](/assets/preprints/Pozzobon_2018_e.pdf)
+
+0. [**Probabilistic modeling of coupled heat transfer: A step towards optimization based on multiphysics Monte Carlo simulations.**](https://doi.org/10.1016/j.ijthermalsci.2018.04.004) Spiesser, C., **Pozzobon, V.**, Farges, O., & Bezian, J. J. (2018). _International Journal of Thermal Sciences_, 132, 387-397.
+
+0. [**Experimental study of torrefied wood fixed bed: thermal analysis and source term identification.**](https://doi.org/10.1016/j.fuel.2018.06.115) Bouzarour, A., **Pozzobon, V.**, Perre, P., & Salvador, S. (2018). _Fuel_, 234, 247-255.
+
+0. [**Resveratrol production by grapevine cells in fed-batch bioreactor: Experiments and modeling.**](https://doi.org/10.1016/j.bej.2017.12.009) Chastang, T., **Pozzobon, V.**, Taidi, B., Courot, E., Clément, C., & Pareau, D. (2018). _Biochemical engineering journal_, 131, 9-16.
+
+0. [**Han’s model parameters for microalgae grown under intermittent illumination: Determined using particle swarm optimization.**](https://doi.org/10.1016/j.jtbi.2017.10.010) **Pozzobon, V.**, & Perre, P. (2018). _Journal of theoretical biology_, 437, 29-35. [(Preprint)](/assets/preprints/Pozzobon_2018_a.pdf)
+
+0. [**Darcy scale modeling of smoldering: impact of heat loss.**](https://doi.org/10.1080/00102202.2016.1214585) **Pozzobon, V.**, Baud, G., Salvador, S., & Debenest, G. (2017). _Combustion Science and Technology_, 189(2), 340-365. [(Preprint)](/assets/preprints/Pozzobon_2017_b.pdf)
+
+0. [**Gas-liquid absorption in industrial cross-flow membrane contactors: Experimental and numerical investigation of the influence of transmembrane pressure on partial wetting.**](https://doi.org/10.1016/j.ces.2017.03.042) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2017). _Chemical Engineering Science_, 170, 561-573.
+
+0. [**Simulation of biomass char gasification in a downdraft reactor for syngas production.**]( https://doi.org/10.1002/aic.15111) Ephraim, A., **Pozzobon, V.**, Louisnard, O., Minh, D. P., Nzihou, A., & Sharrock, P. (2016). _AIChE Journal_, 62(4), 1079-1091.
+
+0. [**Biomass gasification under high solar heat flux: Experiments on thermally thick samples.**](https://doi.org/10.1016/j.fuel.2016.02.003) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2016). _Fuel_, 174, 257-266. [(Preprint)](/assets/preprints/Pozzobon_2016_a.pdf)
+
+0. [**High heat flux mapping using infrared images processed by inverse methods: an application to solar concentrating systems.**](https://doi.org/10.1016/j.solener.2015.04.021) **Pozzobon, V.**, & Salvador, S. (2015). _Solar Energy_, 117, 29-35. [(Preprint)](/assets/preprints/Pozzobon_2015_a.pdf)
+
+0. [**Radiative pyrolysis of wet wood under intermediate heat flux: Experiments and modeling.**](https://doi.org/10.1016/j.fuproc.2014.07.007) **Pozzobon, V.**, Salvador, S., Bézian, J. J., El-Hafi, M., Le Maoult, Y., & Flamant, G. (2014). _Fuel Processing Technology_, 128, 319-330. [(Preprint)](/assets/preprints/Pozzobon_2014_a.pdf)
 {: reversed="reversed"}
 
-
-* [**Evolving perspectives on lutein production from microalgae - A focus on productivity and heterotrophic culture.**](https://doi.org/10.1016/j.biotechadv.2024.108375) Camarena-Bernard, C. & **Pozzobon, V.** (2024). _Biotechnology Advances_, 73, 108375. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S0734975024000697/pdfft?md5=e89ef3b24871edbf0fc7fe1710210504&pid=1-s2.0-S0734975024000697-main.pdf) [(PDF file)](/assets/preprints/Camarena_2024_b.pdf)
-
-* [**Microalgae bio-reactive façade: A radiative-convective model powered by hourly illumination computation and historical weather data.**](https://doi.org/10.1016/j.jobe.2024.109407) **Pozzobon, V.** (2024).  _Journal of Building Engineering_, 90, 109407. [(Preprint)](/assets/preprints/Pozzobon_2024_d.pdf)
-
-* [**Multi-scale investigation of heat and  momentum transfer in packed-bed TES systems up to 800 K.**](https://doi.org/10.1016/j.apenergy.2024.123285) Liu, S., Ahmadi-Senichault, A., **Pozzobon, V.**, & Lachaud, J. (2024).  _Applied energy_, 366, 123285. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S0306261924006688/pdfft?md5=b38ca51f9687323d5fa2fdb3750cf4a6&pid=1-s2.0-S0306261924006688-main.pdf) [(PDF file)](/assets/preprints/Liu_2024_a.pdf)
-
-* [**Microalgal cell division tracking using CFSE.**](https://doi.org/10.1016/j.algal.2024.103501) **Pozzobon, V.**, Lagirarde, J., Arnoudts, C., & Levasseur, W. (2024).  _Algal research_, 80, 103501. [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S2211926424001139/pdfft?md5=895e8bd5eb1d2e0069187b16953579f0&pid=1-s2.0-S2211926424001139-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2024_c.pdf)
-
-* [**Microalgae bio-reactive façade: Location and weather-based systematic optimization.**](https://doi.org/10.1016/j.buildenv.2024.111352) **Pozzobon, V.** (2024).  _Building and Environment_, 253, 111352. [(Preprint)](/assets/preprints/Pozzobon_2024_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2024_b_Supplementary_Materials.pdf)
-
-* [**Systematic formulation of brewery effluent for high-efficiency epuration and food-grade microalgae production.**](https://doi.org/10.1016/j.biteb.2024.101795) **Pozzobon, V.**, Lemaire, J. & Lagirarde, J. (2024). _Bioresource Technology Reports_, 25, 101795. [(Preprint)](/assets/preprints/Pozzobon_2024_a.pdf)
-
-* [**Heterotrophic culture of _Scenedesmus almeriensis_ for lutein productivity enhancement.**](https://doi.org/10.1007/s10811-024-03186-1) Camarena-Bernard, C., Jullien, T. & **Pozzobon, V.** (2024). _Journal of Applied Phycology_. 1-14 [(Preprint)](/assets/preprints/Camarena_2024_a.pdf)
-
-* [**Impact of 3D printing materials on microalga _Chlorella vulgaris_.**](https://doi.org/10.1016/j.biortech.2023.129807) **Pozzobon, V.**, Otaola, F., Arnoudts, C. & Lagirarde, J. (2023).  _Bioresource Technology_, 389, 129807. [(Preprint)](/assets/preprints/Pozzobon_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2023_a_Supplementary_Materials.pdf)
-
-* [**Assessment of Photosynthetic Carbon Capture versus Carbon Footprint of an Industrial Microalgal Process.**](https://doi.org/10.3390/app13085193) Oliver, A., Camarena-Bernard, C., Lagirarde, J. & **Pozzobon, V.** (2023). _Applied sciences_, 13(8), 5193. [(Publisher open Access)](https://www.mdpi.com/2076-3417/13/8/5193/pdf?version=1682072160) [(PDF file)](/assets/preprints/Oliver_2023_a.pdf)
-
-* [**A Novel Strategy to Enhance Antioxidant Content in _Saccharomyces Cerevisiae_ Based on Oxygen Pressure.**](https://doi.org/10.3390/bioengineering10020246) Cui, N., Perré, P., Michiels, E. & **Pozzobon, V.** (2023). _Bioengineering_, 10(2), 246. [(Publisher open Access)](https://www.mdpi.com/2306-5354/10/2/246/pdf?version=1676291189) [(PDF file)](/assets/preprints/Cui_2023_a.pdf)
-
-* [**_Chlorella vulgaris_ acclimated cultivation under flashing light: an in-depth investigation under iso-actinic conditions.**](https://doi.org/10.1016/j.algal.2023.102976) Levasseur, W., Perré, P., & **Pozzobon, V.** (2023).  _Algal research_, 70, 102976. [(Preprint)](/assets/preprints/Levasseur_2023_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2023_a_Supplementary_Materials.pdf)
-
-* [**A Numerical Study of Turbulent Combustion of a Lignocellulosic Gas Mixture in an Updraft Fixed Bed Reactor.**](https://doi.org/10.3390/su142416587) Khlifi, S., Lajili, M., Perré, P. & **Pozzobon, V.** (2022). _Sustainability_, 14(24), 16587. [(Publisher open Access)](https://www.mdpi.com/2071-1050/14/24/16587/pdf?version=1671591701) [(PDF file)](/assets/preprints/Khlifi_2022_a.pdf)
-
-* [**Lutein, violaxanthin, and zeaxanthin spectrophotometric quantification: a machine learning approach.**](https://doi.org/10.1007/s10811-022-02855-3) **Pozzobon, V.** & Camarena-Bernard, C. (2022). _Journal of Applied Phycology_. 35, 1-12. [(Associated repository)](https://github.com/victorpozzobon/pigmentQuantificationSpectrophotometry) [(Preprint)](/assets/preprints/Pozzobon_2022_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_b_Supplementary_Materials.pdf)
-
-* [**Food-grade cultivation of _Saccharomyces cerevisiae_ from potato waste.**](https://doi.org/10.3390/agriengineering4040061) Cui, N. & **Pozzobon, V.** (2022). _AgriEngineering_, 4(4), 951-968. [(Publisher open Access)](https://www.mdpi.com/2624-7402/4/4/61/pdf?version=1667291265) [(PDF file)](/assets/preprints/Cui_2022_a.pdf)
-
-* [**_Chlorella vulgaris_ cultivation under super high light intensity: an application of the flashing light effect.**](https://doi.org/10.1016/j.algal.2022.102874) **Pozzobon, V.** (2022).  _Algal research_, 68, 102874. [(Preprint)](/assets/preprints/Pozzobon_2022_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2022_a_Supplementary_Materials.pdf)
-
-* [**Photosynthesis in bioremediation.**](https://doi.org/10.1016/B978-0-323-90452-0.00020-7) Levasseur, W., & **Pozzobon, V.** (2022). In _Microbes and Microbial Biotechnology for Green Remediation_ (pp. 247-263). Elsevier.
-
-* [**Green microalgae in intermittent light: a meta-analysis assisted by machine learning.**](https://doi.org/10.1007/s10811-021-02603-z) Levasseur, W., **Pozzobon, V.** & Perre, P. (2021). _Journal of Applied Phycology_, 34, 135-158. [(Preprint)](/assets/preprints/Levasseur_2021_a.pdf) [(Supplementary materials)](/assets/preprints/Levasseur_2021_a_Supplementary_data.pdf)
-
-* [**CO<sub>2</sub> Absorption Using Hollow Fiber Membrane Contactors: Introducing pH Swing Absorption (pHSA) to Overcome Purity Limitation.**](https://doi.org/10.3390/membranes11070496) Chavan, S. R., Perré, P., **Pozzobon, V.**, & Lemaire, J. (2021). _Membranes_, 11(7), 496. [(Publisher open Access)](https://www.mdpi.com/2077-0375/11/7/496/pdf?version=1627041408) [(PDF file)](/assets/preprints/Chavan_2021_a.pdf)
-
-* [**Nitrate and nitrite as mixed source of nitrogen for _Chlorella vulgaris_: fast nitrogen quantification using spectrophotometer and machine learning.**](https://doi.org/10.1007/s10811-021-02422-2) **Pozzobon, V.**, Levasseur, W., Guerin, C., & Perre, P. (2021). _Journal of Applied Phycology_, 33, 1-9. [(Associated repository)](https://github.com/victorpozzobon/PSOGAPLS_NitrogenSpectroscopy)  [(Preprint)](/assets/preprints/Pozzobon_2021_b.pdf)
-
-* [**Nitrate and nitrite as mixed source of nitrogen for _Chlorella vulgaris_: growth, nitrogen uptake and pigment contents.**](https://doi.org/10.1016/j.biortech.2021.124995) **Pozzobon, V.**, Cui, N., Moreaud, A., Michiels, E., & Levasseur, W. (2021). _Bioresource Technology_, 330, 124995. [(Preprint)](/assets/preprints/Pozzobon_2021_a.pdf)
-
-* [**Numerical determination of the volumetric heat transfer coefficient in fixed beds of wood chips.**](https://doi.org/10.1016/j.cej.2020.128009) Sassanis, V., Gamet, L., Rolland, M., Ma, R., & **Pozzobon, V.** (2020). _Chemical Engineering Journal_, 417, 128009. [(Associated repository)](https://github.com/victorpozzobon/simpleThermFoam) [(Preprint)](/assets/preprints/Sassanis_2020_a.pdf)
-
-* [**Effect of increasing oxygen partial pressure on _Saccharomyces cerevisiae_ growth and antioxidant and enzyme productions.**](https://doi.org/10.1007/s00253-020-10824-4) Cui, N., **Pozzobon, V.**, Guerin, C., & Perre, P. (2020). _Applied Microbiology and Biotechnology_, 104(18), 7815-7826.
-
-* [**Pyrolysis of wood and PVC mixtures: thermal behaviour and kinetic modelling.**](https://doi.org/10.1007/s13399-020-00952-2) Ephraim, A., **Pozzobon, V.**, Lebonnois, D., Peregrina, C., Sharrock, P., Nzihou, A., & Minh, D. P. (2020). _Biomass Conversion and Biorefinery_, 13, 1-15.
-
-* [**Machine learning processing of microalgae flow cytometry readings: illustrated with _Chlorella vulgaris_ viability assays.**](https://doi.org/10.1007/s10811-020-02180-7) **Pozzobon, V.**, Levasseur, W., Viau, E., Michiels, E., Clement, T., & Perre, P. (2020). _Journal of Applied Phycology_, 32, 1-10. [(Preprint)](/assets/preprints/Pozzobon_2020_b.pdf)
-
-* [**Mass transfer in hollow fiber membrane contactor: Computational fluid dynamics determination of the shell side resistance.**](https://doi.org/10.1016/j.seppur.2020.116674) **Pozzobon, V.**, & Perré, P. (2020). _Separation and Purification Technology_, 241, 116674. [(Preprint)](/assets/preprints/Pozzobon_2020_a.pdf)
-
-* [**Multiscale numerical workflow describing microalgae motion and light pattern incidence towards population growth in a photobioreactor.**](https://doi.org/10.1016/j.jtbi.2020.110293) **Pozzobon, V.**, & Perré, P. (2020).  _Journal of Theoretical Biology_, 498, 110293. [(Preprint)](/assets/preprints/Pozzobon_2020_d.pdf)
-
-* [**A review of high value-added molecules production by microalgae in light of the classification.**](https://doi.org/10.1016/j.biotechadv.2020.107545) Levasseur, W., Perré, P. & **Pozzobon, V.** (2020). _Biotechnology Advances_, 41, 107545. [(Preprint)](/assets/preprints/Levasseur_2020_a.pdf)
-
-* [**_Desmodesmus_ sp. pigment and FAME profiles under different illuminations and nitrogen status.**](https://doi.org/10.1016/j.biteb.2020.100409) **Pozzobon, V.**, Levasseur, W., Guerin C., Gaveau-Vaillant N., Pointcheval M., & Perré, P. (2020). _Bioresource Technology Reports_, 10, 100409.
-
-* [**Shear stress computation in an millimeter thin flat panel photobioreactor: numerical design validated by experiments.**](https://doi.org/10.1002/bab.1894) Jiang, W., Levasseur, W., Casalinho, J., Martin, T., Puel, F., Perré, P., & **Pozzobon, V.** (2020). _Biotechnology and Applied Biochemistry_, 68(1), 60-70.
-
-* [**Household aluminum foil matte and bright side reflectivity measurements: Application to a photobioreactor light concentrator design.**](https://doi.org/10.1016/j.btre.2019.e00399) **Pozzobon, V.**, Levasseur, W., Do, K. V., Palpant, B., & Perré, P. (2020). _Biotechnology Reports_, 25, e00399. [(Associated repository)](https://github.com/victorpozzobon/aluminumFoilReflectivity) [(Publisher open Access)](https://www.sciencedirect.com/science/article/pii/S2215017X1930373X/pdfft?md5=746a57e5a7d6fe9b0cc833cb3adc1b7f&pid=1-s2.0-S2215017X1930373X-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2020_c.pdf)
-
-* [**Cottage cheese in a diet – a review.**](https://doi.org/10.1108/NFS-03-2019-0073) **Pozzobon, V.**, & Pozzobon, C. (2019). _Nutrition & Food Science_, 49(6), 1265-1274. [(Preprint)](/assets/preprints/Pozzobon_2019_a.pdf)
-
-* [**Experimental and numerical investigation binary mixture mass transfer in a gas–Liquid membrane contactor.**](https://doi.org/10.1016/j.memsci.2018.10.042) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2019). _Journal of Membrane Science_, 572, 1-11.
-
-* [**Impact of seconds to minutes photoperiods on _Chlorella vulgaris_ growth rate and chlorophyll a and b content.**](https://doi.org/10.1016/j.algal.2018.10.007) Levasseur, W., Taidi, B., Lacombe, R., Perré, P., & **Pozzobon, V.** (2018).  _Algal research_, 36, 10-16. [(Preprint)](/assets/preprints/Levasseur_2018_a.pdf)
-
-* [**Hydrodynamics of a packed bed of non-spherical polydisperse particles: A fully virtual approach validated by experiments.**](https://doi.org/10.1016/j.cej.2018.07.214) **Pozzobon, V.**, Colin, J., & Perré, P. (2018).  _Chemical Engineering Journal_, 354, 126-136. [(Preprint)](/assets/preprints/Pozzobon_2018_g.pdf)
-
-* [**Biomass gasification under high solar heat flux: Advanced modeling.**](https://doi.org/10.1016/j.fuel.2017.10.011) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2018). _Fuel_, 214, 300-313. [(Preprint)](/assets/preprints/Pozzobon_2018_f.pdf)
-
-* [**10% Loss of Incident Power through Solar Reactor Window: Myth or Good Rule of Thumb?**](https://doi.org/10.3103/S0003701X18020093) **Pozzobon, V.** (2018). _Applied Solar Energy_, 54(2), 131-133. [(Preprint)](/assets/preprints/Pozzobon_2018_e.pdf)
-
-* [**Probabilistic modeling of coupled heat transfer: A step towards optimization based on multiphysics Monte Carlo simulations.**](https://doi.org/10.1016/j.ijthermalsci.2018.04.004) Spiesser, C., **Pozzobon, V.**, Farges, O., & Bezian, J. J. (2018). _International Journal of Thermal Sciences_, 132, 387-397.
-
-* [**Experimental study of torrefied wood fixed bed: thermal analysis and source term identification.**](https://doi.org/10.1016/j.fuel.2018.06.115) Bouzarour, A., **Pozzobon, V.**, Perre, P., & Salvador, S. (2018). _Fuel_, 234, 247-255.
-
-* [**Resveratrol production by grapevine cells in fed-batch bioreactor: Experiments and modeling.**](https://doi.org/10.1016/j.bej.2017.12.009) Chastang, T., **Pozzobon, V.**, Taidi, B., Courot, E., Clément, C., & Pareau, D. (2018). _Biochemical engineering journal_, 131, 9-16.
-
-* [**Han’s model parameters for microalgae grown under intermittent illumination: Determined using particle swarm optimization.**](https://doi.org/10.1016/j.jtbi.2017.10.010) **Pozzobon, V.**, & Perre, P. (2018). _Journal of theoretical biology_, 437, 29-35. [(Preprint)](/assets/preprints/Pozzobon_2018_a.pdf)
-
-* [**Darcy scale modeling of smoldering: impact of heat loss.**](https://doi.org/10.1080/00102202.2016.1214585) **Pozzobon, V.**, Baud, G., Salvador, S., & Debenest, G. (2017). _Combustion Science and Technology_, 189(2), 340-365. [(Preprint)](/assets/preprints/Pozzobon_2017_b.pdf)
-
-* [**Gas-liquid absorption in industrial cross-flow membrane contactors: Experimental and numerical investigation of the influence of transmembrane pressure on partial wetting.**](https://doi.org/10.1016/j.ces.2017.03.042) Fougerit, V., **Pozzobon, V.**, Pareau, D., Théoleyre, M. A., & Stambouli, M. (2017). _Chemical Engineering Science_, 170, 561-573.
-
-* [**Simulation of biomass char gasification in a downdraft reactor for syngas production.**]( https://doi.org/10.1002/aic.15111) Ephraim, A., **Pozzobon, V.**, Louisnard, O., Minh, D. P., Nzihou, A., & Sharrock, P. (2016). _AIChE Journal_, 62(4), 1079-1091.
-
-* [**Biomass gasification under high solar heat flux: Experiments on thermally thick samples.**](https://doi.org/10.1016/j.fuel.2016.02.003) **Pozzobon, V.**, Salvador, S., & Bézian, J. J. (2016). _Fuel_, 174, 257-266. [(Preprint)](/assets/preprints/Pozzobon_2016_a.pdf)
-
-* [**High heat flux mapping using infrared images processed by inverse methods: an application to solar concentrating systems.**](https://doi.org/10.1016/j.solener.2015.04.021) **Pozzobon, V.**, & Salvador, S. (2015). _Solar Energy_, 117, 29-35. [(Preprint)](/assets/preprints/Pozzobon_2015_a.pdf)
-
-* [**Radiative pyrolysis of wet wood under intermediate heat flux: Experiments and modeling.**](https://doi.org/10.1016/j.fuproc.2014.07.007) **Pozzobon, V.**, Salvador, S., Bézian, J. J., El-Hafi, M., Le Maoult, Y., & Flamant, G. (2014). _Fuel Processing Technology_, 128, 319-330. [(Preprint)](/assets/preprints/Pozzobon_2014_a.pdf)
-
 ### Invitations as guest speaker
-
 
 * **Modélisation biologique et design de photobioréacteurs pour la valorisation de biomasse microalgale** (part of the round table: _La pluridisciplinarité, un atout pour la bioraffinerie et la valorisation de la biomasse._) _**Pozzobon, V.**_ (2023, March). Invited talk, Forum Labo, Paris, France.
 
