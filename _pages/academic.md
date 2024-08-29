@@ -34,11 +34,13 @@ Monitoring commites: 1. Marion Pointcheval 2023, 2. Elise Viau 2023, 3. -->
 
 ### Supervision, teaching and trainings
 
-I direct(ed) or supervise(d) Ph.D. students (2 in progress, 6 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
+I direct(ed) or supervise(d) Ph.D. students (3 in progress, 7 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
 
-* [Development, modeling and optimization of CO2 separation process using membrane contactor : applied to hydrogen purification](https://www.theses.fr/2022UPAST040), defended by Sayali Ramdas Chavan on April 4 2022.
+* [Lutein production and extraction improvements from a heterotrophic culture of _Scenedesmus almeriensis_](https://www.linkedin.com/posts/chaire-biotechnologie-centralesupelec_phd-aujourdhui-cristobal-camarena-a-activity-7234565876983705601-0z6C/?utm_source=share&utm_medium=member_android), defended by Cristóbal Camarena-Bernard on August 28 2024.
 
-* [Biotechnological performances of acclimated green microalgae cultures : effect of light and its modulations](https://www.theses.fr/2021UPAST084), defended by Wendie Levasseur on August 30 2021 ([Award](https://www.centralesupelec.fr/fr/impact-2021-prix-de-these-de-la-fondation-centralesupelec-0)).
+* [Development, modeling and optimization of CO2 separation process using membrane contactor: applied to hydrogen purification](https://www.theses.fr/2022UPAST040), defended by Sayali Ramdas Chavan on April 4 2022.
+
+* [Biotechnological performances of acclimated green microalgae cultures: effect of light and its modulations](https://www.theses.fr/2021UPAST084), defended by Wendie Levasseur on August 30 2021 ([Award](https://www.centralesupelec.fr/fr/impact-2021-prix-de-these-de-la-fondation-centralesupelec-0)).
 
 * [Production de biométhane à partir de biogaz par technologie de séparation par adsorption PSA : optimisation numérique par approche multi-échelle](https://www.theses.fr/2020UPAST043), defended by Najib Chouikhi on December 8 2020.
 
