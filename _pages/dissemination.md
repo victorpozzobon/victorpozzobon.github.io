@@ -3,27 +3,14 @@ layout: default
 title: Dissemination
 permalink: /dissemination/
 ---
-# Biotechnology
+# Dissemination / Vulgarisation
 
 ![Dissemination examples](/assets/images/Dissemination_Numbers.png){: style="float: right;width:50%; max-width:400px; margin:10px"}
-Since 2015, I have been working in a biotechnology lab. As I deeply believe that you cannot model something
-you are not able to manipulate, I choose to get trained in biology. In addition to having acquired basic lab techniques, I 
-now train people to use **flow cytometry** and carry out pulse amplitude modulated (**PAM**) fluorescence assays. 
 
-Microalgae are my favorite microorganisms because of their photosynthetic ability (which makes everything more complex, hence fascinating).
-But I also have experience with yeasts. 
+### French
 
-### Aims
+Dans le cadre de mes actions de vulgarisation scientifique, je peux animer des ateliers/stands autours de la thématique microalgues. Pour cela, mon équipe et moi avons développé du matériel spécifique (mini-photobioréacteur avec une culture qui prolifère de jour en jour - A, poster de présentation des microalgues - B, exemples d'applications des microalgues en agroalimentaire, petits pains , cookies, ... - C, exemples d'applications des microalgues comme biocarburants - D, jeu de memory avec les différentes espèces de microalgues (40), E). N'hésitez pas à me contacter.
 
-It is well-known that microalgal biotechnology large-scale deployment is hindered by three 
-(four if you want to add strain optimization) bottlenecks: culture density - which is too low -,
-harvest - which is endergonic -, disruption/extraction - hampered by millions of years of 
-natural selection. Along those, I target culture density: in photoautotrophic mode by **increasing light use efficiency**, in chemioheterotophic mode by lowering substrate costs. 
+### English
 
-### Projects
-
-On the academic side, I investigate the **interaction between microalgae and light at the photobioreactor level**. While its exploration started a long time ago now, much remains
-to be done. As for myself, I focus on biological behavior modeling and photobioreactor design. But I am far from restricting myself to these two fields.
-
-I also lead projects with industrial partners. They usually revolve around photobioreactor performances assessment,
-developing culture protocol for exotic microalgae, ...
+As part of my science dissemination activities, I can run workshops/booths on the topic of microalgae. For this, my team and I have developed specific equipment (mini-photobioreactor with a culture that proliferates day by day - A, poster presenting microalgae - B, examples of applications of microalgae in the food industry, bread rolls, cookies, ... - C, examples of microalgae applications as biofuels - D, memory game with the different species of microalgae (40), E). Please do not hesitate to contact me.
