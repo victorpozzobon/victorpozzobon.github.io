@@ -5,7 +5,8 @@ permalink: /dissemination/
 ---
 # Dissemination / Vulgarisation
 
-![Dissemination examples](/assets/images/Dissemination_Numbers.png){: style="float: right;width:50%; max-width:400px; margin:10px"}
+![Dissemination examples 1](/assets/images/Dissemination_Numbers.png){: style="float: right;width:50%; max-width:400px; margin:10px"}
+![Dissemination examples 2](/assets/images/Memory_Numbers.png){: style="float: right;width:50%; max-width:400px; margin:10px"}
 
 ### French
 
