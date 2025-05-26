@@ -28,7 +28,7 @@ I am involved in several research collaborations. The ones reported here are tho
 
 <!--* I was also invited to in several Ph.D. juries (0 as president, three as a reviewer, and two as a guest) and monitoring committees (two in total). -->
 <!--President: 0
-Reviewer: 1. PhD Ruming Pan (IMFT Gérald), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric), 4.
+Reviewer: 1. PhD Ruming Pan (IMFT Gérald 2022), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna 2023), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric 2023), 4. Manon Mathieu (Mines Albi RAPSODEE, Javier Escudero 2024)
 Guest: 1. PhD Franco Otaola 2022, 2. PhD Shalolin Liu 2023, 3.
 Monitoring commites: 1. Marion Pointcheval 2023, 2. Elise Viau 2023, 3. -->
 
@@ -36,7 +36,7 @@ Monitoring commites: 1. Marion Pointcheval 2023, 2. Elise Viau 2023, 3. -->
 
 I direct(ed) or supervise(d) Ph.D. students (3 in progress, 7 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
 
-* [Lutein production and extraction improvements from a heterotrophic culture of _Scenedesmus almeriensis_](https://www.linkedin.com/posts/chaire-biotechnologie-centralesupelec_phd-aujourdhui-cristobal-camarena-a-activity-7234565876983705601-0z6C/?utm_source=share&utm_medium=member_android), defended by Cristóbal Camarena-Bernard on August 28 2024.
+* [Lutein production and extraction improvements from a heterotrophic culture of _Scenedesmus almeriensis_](https://theses.fr/2024UPAST085), defended by Cristóbal Camarena-Bernard on August 28 2024.
 
 * [Development, modeling and optimization of CO2 separation process using membrane contactor: applied to hydrogen purification](https://www.theses.fr/2022UPAST040), defended by Sayali Ramdas Chavan on April 4 2022.
 
@@ -70,6 +70,8 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 <!--APA modified style-->
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
+
+0. [**Microalgae bio-reactive façade: Open data for nation-scale production potential assessment.**](https://doi.org/10.1016/j.renene.2025.123406) **Pozzobon, V.** (2025).  _Renewable Energy_, 252, 123406. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0960148125010687/pdfft?md5=561857bb761e73438ad35038c31ed6f7&pid=1-s2.0-S0960148125010687-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2025_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2025_a_Supplementary_Materials.pdf)
 
 0. [**Deciphering the Phytochemical Potential of Hemp Hairy Roots: A Promising Source of Cannabisins and Triterpenes as Bioactive Compounds.**](https://doi.org/10.3390/molecules29235792) Kaminsky, N., Hubert, J., Guerin, C., Mazlani, M., Kotland, A., **Pozzobon, V.**, Marant, B., Mailhac, H., & Poigny, S. (2024). _Molecules_, 29(23), 5792. [(Publisher Open Access)](https://www.mdpi.com/1420-3049/29/23/5792/pdf?version=1733561670) [(PDF file)](/assets/preprints/Kaminsky_2024_a.pdf)
 
