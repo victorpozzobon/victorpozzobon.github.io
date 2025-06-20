@@ -26,15 +26,17 @@ I am involved in several research collaborations. The ones reported here are tho
 
 * [**I2M - Université de Bordeaux**](https://www.i2m.u-bordeaux.fr/en) - on DEM/OpenFOAM coupling for heat transfer in packed bed reactors.
 
-<!--* I was also invited to in several Ph.D. juries (0 as president, three as a reviewer, and two as a guest) and monitoring committees (two in total). -->
+<!--* I was also invited to in several Ph.D. juries (0 as president, four as a reviewer, and two as a guest) and monitoring committees (two in total). -->
 <!--President: 0
 Reviewer: 1. PhD Ruming Pan (IMFT Gérald 2022), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna 2023), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric 2023), 4. Manon Mathieu (Mines Albi RAPSODEE, Javier Escudero 2024)
 Guest: 1. PhD Franco Otaola 2022, 2. PhD Shalolin Liu 2023, 3.
-Monitoring commites: 1. Marion Pointcheval 2023, 2. Elise Viau 2023, 3. -->
+Monitoring commites: 1. Marion Pointcheval (GEPEA), 2023, 2. Elise Viau (TBI) 2023, 3. Hugo Delphan (CEA Cadarache), 2025, 4. Antoine Martin-Sanchez (LGPM, CentraleSupélec), 2025 -->
 
 ### Supervision, teaching and trainings
 
-I direct(ed) or supervise(d) Ph.D. students (3 in progress, 7 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
+I direct(ed) or supervise(d) Ph.D. students (2 in progress, 8 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
+
+* [Photoacclimation dynamic of green microalgae: experiments and modeling](https://theses.fr/), defended by Arthur Oliver on June 6 2025.
 
 * [Lutein production and extraction improvements from a heterotrophic culture of _Scenedesmus almeriensis_](https://theses.fr/2024UPAST085), defended by Cristóbal Camarena-Bernard on August 28 2024.
 
@@ -60,7 +62,11 @@ My formal teachings activities are:
 
 * L3 - lecture and practicals on _Heat balance & transfers_, ca. 14 h/y
 
+* Undergraduate to M2 - long running project supervision (mainly in biotechnology), ca. 2-3/y <!--TIPE ROUSSINEAU Julien et BOURDET Benjamin-->
+
 * many other occasional or reoccurring involvements
+
+
 
 I also provide training to OpenFOAM, usually through 2 to 3-day sessions, once or twice a year.
 
@@ -182,19 +188,25 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Invitations as guest speaker
 
+<!--* **Du laboratoire au territoire : montée en échelle et évaluation du potentiel d'une technologie microalgue.** _**Pozzobon, V.**_ (2025, September). In _Tech Day : Accélérer l’innovation en biotechnologies : Les clés du scale-up_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.-->
+
+* **One upon a time** Mock, M. & _**Pozzobon, V.**_ (2025, June). Invited talk, Capgemini, Online.
+
+* **Les biomédicaments un espoir pour les patients, une vocation pour les experts** (round table part of: _Journée Nationale de la Bioproduction de Biomédicament._) _**Pozzobon, V.**_ (2025, June). Round table, Issy les Moulineaux, France.
+
 * **Modélisation biologique et design de photobioréacteurs pour la valorisation de biomasse microalgale** (part of the round table: _La pluridisciplinarité, un atout pour la bioraffinerie et la valorisation de la biomasse._) _**Pozzobon, V.**_ (2023, March). Invited talk, Forum Labo, Paris, France.
 
 * **Machine learning activities at the Chair of Biotechnology of CentraleSupélec.** _**Pozzobon, V.**_ (2023, January). Invited talk, HubIA CentraleSupélec, Gif-sur-Yvette, France.
 
 * **Emergence of the behavior of a population from its individuals: application to a photobioreactor.** _**Pozzobon, V.**_ (2021, March). Invited talk, Unité PROSE, INRAE, Antony, France.
 
-* **Biomass gasification under radiative heat flux.** _**Pozzobon, V.**_ (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_, The von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium.
+* **Biomass gasification under radiative heat flux.** _**Pozzobon, V.**_ (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_. Invited talk, The von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium.
 
-* **Granular media characterization: an application to wood chips bed.** _**Pozzobon, V.**_ & Perré P. (2018, November). In _OpenFOAM on fixed beds days_, IFPEN, Solaize, France.
+* **Granular media characterization: an application to wood chips bed.** _**Pozzobon, V.**_ & Perré P. (2018, November). In _OpenFOAM on fixed beds days_. Invited talk, IFPEN, Solaize, France.
 
-* **Effet de la photopériode sur la croissance des microalgues.** _**Pozzobon, V.**_ & Filali R. (2018, October). In _Journée microalgues_, European Center for Biotechnology and Bioeconomy, Pomacle, France.
+* **Effet de la photopériode sur la croissance des microalgues.** _**Pozzobon, V.**_ & Filali R. (2018, October). In _Journée microalgues_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
 
-* **What is it to work as a PhD.** _**Pozzobon, V.**_ (2017, January). In _Conférence métier_, ENSEEIHT, Toulouse, France.
+* **What is it to work as a PhD.** _**Pozzobon, V.**_ (2017, January). In _Conférence métier_. Invited talk, ENSEEIHT, Toulouse, France.
 
 ### Proceedings
 
