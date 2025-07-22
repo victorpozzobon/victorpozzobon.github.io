@@ -36,7 +36,7 @@ Monitoring commites: 1. Marion Pointcheval (GEPEA), 2023, 2. Elise Viau (TBI) 20
 
 I direct(ed) or supervise(d) Ph.D. students (2 in progress, 8 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
 
-* [Photoacclimation dynamic of green microalgae: experiments and modeling](https://theses.fr/), defended by Arthur Oliver on June 6 2025.
+* [Photoacclimation dynamic of green microalgae: experiments and modeling](https://theses.fr/2025UPAST063), defended by Arthur Oliver on June 6 2025.
 
 * [Lutein production and extraction improvements from a heterotrophic culture of _Scenedesmus almeriensis_](https://theses.fr/2024UPAST085), defended by Cristóbal Camarena-Bernard on August 28 2024.
 
@@ -190,37 +190,37 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 <!--* **Du laboratoire au territoire : montée en échelle et évaluation du potentiel d'une technologie microalgue.** _**Pozzobon, V.**_ (2025, September). In _Tech Day : Accélérer l’innovation en biotechnologies : Les clés du scale-up_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.-->
 
-* **One upon a time** Mock, M. & _**Pozzobon, V.**_ (2025, June). Invited talk, Capgemini, Online.
+* **One upon a time** Mock, M. & **Pozzobon, V.** (2025, June). Invited talk, Capgemini, Online.
 
-* **Les biomédicaments un espoir pour les patients, une vocation pour les experts** (round table part of: _Journée Nationale de la Bioproduction de Biomédicament._) _**Pozzobon, V.**_ (2025, June). Round table, Issy les Moulineaux, France.
+* **Les biomédicaments un espoir pour les patients, une vocation pour les experts** (round table part of: _Journée Nationale de la Bioproduction de Biomédicament._) **Pozzobon, V.** (2025, June). Round table, Issy les Moulineaux, France.
 
-* **Modélisation biologique et design de photobioréacteurs pour la valorisation de biomasse microalgale** (part of the round table: _La pluridisciplinarité, un atout pour la bioraffinerie et la valorisation de la biomasse._) _**Pozzobon, V.**_ (2023, March). Invited talk, Forum Labo, Paris, France.
+* **Modélisation biologique et design de photobioréacteurs pour la valorisation de biomasse microalgale** (part of the round table: _La pluridisciplinarité, un atout pour la bioraffinerie et la valorisation de la biomasse._) **Pozzobon, V.** (2023, March). Invited talk, Forum Labo, Paris, France.
 
-* **Machine learning activities at the Chair of Biotechnology of CentraleSupélec.** _**Pozzobon, V.**_ (2023, January). Invited talk, HubIA CentraleSupélec, Gif-sur-Yvette, France.
+* **Machine learning activities at the Chair of Biotechnology of CentraleSupélec.** **Pozzobon, V.** (2023, January). Invited talk, HubIA CentraleSupélec, Gif-sur-Yvette, France.
 
-* **Emergence of the behavior of a population from its individuals: application to a photobioreactor.** _**Pozzobon, V.**_ (2021, March). Invited talk, Unité PROSE, INRAE, Antony, France.
+* **Emergence of the behavior of a population from its individuals: application to a photobioreactor.** **Pozzobon, V.** (2021, March). Invited talk, Unité PROSE, INRAE, Antony, France.
 
-* **Biomass gasification under radiative heat flux.** _**Pozzobon, V.**_ (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_. Invited talk, The von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium.
+* **Biomass gasification under radiative heat flux.** **Pozzobon, V.** (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_. Invited talk, The von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium.
 
-* **Granular media characterization: an application to wood chips bed.** _**Pozzobon, V.**_ & Perré P. (2018, November). In _OpenFOAM on fixed beds days_. Invited talk, IFPEN, Solaize, France.
+* **Granular media characterization: an application to wood chips bed.** **Pozzobon, V.** & Perré P. (2018, November). In _OpenFOAM on fixed beds days_. Invited talk, IFPEN, Solaize, France.
 
-* **Effet de la photopériode sur la croissance des microalgues.** _**Pozzobon, V.**_ & Filali R. (2018, October). In _Journée microalgues_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
+* **Effet de la photopériode sur la croissance des microalgues.** **Pozzobon, V.** & Filali R. (2018, October). In _Journée microalgues_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
 
 * **What is it to work as a PhD.** _**Pozzobon, V.**_ (2017, January). In _Conférence métier_. Invited talk, ENSEEIHT, Toulouse, France.
 
 ### Proceedings
 
-* **Bubble formation and detachment: an investigation by experiments and simulations.** _Jiang, W._, **Pozzobon, V.**, Casalinho, J., Martin, T., Perre, P., & Puel, F. (2018, June). In _8th International Colloids Conference_.
+* **Bubble formation and detachment: an investigation by experiments and simulations.** Jiang, W., **Pozzobon, V.**, Casalinho, J., Martin, T., Perre, P., & Puel, F. (2018, June). In _8th International Colloids Conference_.
 
-* **Modeling the absorption of a gas mixture in a cross-flow hollow-fiber membrane module.** _Fougerit  V._,  **Pozzobon  V.**,  Pareau  D.,  Théoleyre  M-A., &  Stambouli  M. (2017, August). _13th International Conference  on  Gas–Liquid  and  Gas–Liquid–Solid  Reactor Engineering  (GLS13)_, Sint-Genesius-Rode, Belgium.
+* **Modeling the absorption of a gas mixture in a cross-flow hollow-fiber membrane module.** Fougerit  V.,  **Pozzobon  V.**,  Pareau  D.,  Théoleyre  M-A., &  Stambouli  M. (2017, August). _13th International Conference  on  Gas–Liquid  and  Gas–Liquid–Solid  Reactor Engineering  (GLS13)_, Sint-Genesius-Rode, Belgium.
 
-* **Behaviour of chloride pollutants in syngas from wood waste pyro-gasification: a modeling approach.** _Ephraim A._, **Pozzobon V.**, Minh DP., Nzihou A., & Sharrock P. (2016, May). _6th International Conference on Energy from Biomass and Waste_, Venice, Italy.
+* **Behaviour of chloride pollutants in syngas from wood waste pyro-gasification: a modeling approach.** Ephraim A., **Pozzobon V.**, Minh DP., Nzihou A., & Sharrock P. (2016, May). _6th International Conference on Energy from Biomass and Waste_, Venice, Italy.
 
-* **Simulation of biochar gasification in a downdraft reactor for syngas production.** Ephraim A., _**Pozzobon V.**_, Louisnard O., Minh DP., Nzihou A., & Sharrock P. (2016, May). In _WasteEng 2016-6th International Conference on Engineering for Waste and Biomass Valorisation_.
+* **Simulation of biochar gasification in a downdraft reactor for syngas production.** Ephraim A., **Pozzobon V.**, Louisnard O., Minh DP., Nzihou A., & Sharrock P. (2016, May). In _WasteEng 2016-6th International Conference on Engineering for Waste and Biomass Valorisation_.
 
-* **Beech wood gasification under high radiative heat flux.** _**Pozzobon, V.**_, Salvador, S., Bézian, J. J., El-Hafi, M., & Flamant, G. (2014, August). In _WasteEng 2014-5th International Conference on Engineering for Waste and Biomass Valorisation_, Rio de Janeiro, Brazil.
+* **Beech wood gasification under high radiative heat flux.** **Pozzobon, V.**, Salvador, S., Bézian, J. J., El-Hafi, M., & Flamant, G. (2014, August). In _WasteEng 2014-5th International Conference on Engineering for Waste and Biomass Valorisation_, Rio de Janeiro, Brazil.
 
-* **Gazéification de la biomasse lignocellulosique sous haute densité de flux solaire: séchage et pyrolyse.** _**Pozzobon, V.**_, Salvador, S., Bézian, J. J., El-Hafi, M., & Le Maoult, Y. (2013, May). In _SFT Conference 2013_, Geradmer, France.
+* **Gazéification de la biomasse lignocellulosique sous haute densité de flux solaire: séchage et pyrolyse.** **Pozzobon, V.**, Salvador, S., Bézian, J. J., El-Hafi, M., & Le Maoult, Y. (2013, May). In _SFT Conference 2013_, Geradmer, France.
 
 ### Conference presentations (without proceeding)
 
