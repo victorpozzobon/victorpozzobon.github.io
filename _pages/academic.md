@@ -77,6 +77,8 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
+0. [**Cultivation Strategies for Added-Value Products.**](https://doi.org/) Levasseur, W., & **Pozzobon, V.** (2026). In _Innovations in the Blue Economy_ (In Press). Elsevier.
+
 0. [**Microalgae bio-reactive façade: Open data for nation-scale production potential assessment.**](https://doi.org/10.1016/j.renene.2025.123406) **Pozzobon, V.** (2025).  _Renewable Energy_, 252, 123406. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0960148125010687/pdfft?md5=561857bb761e73438ad35038c31ed6f7&pid=1-s2.0-S0960148125010687-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2025_a.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2025_a_Supplementary_Materials.pdf)
 
 0. [**Deciphering the Phytochemical Potential of Hemp Hairy Roots: A Promising Source of Cannabisins and Triterpenes as Bioactive Compounds.**](https://doi.org/10.3390/molecules29235792) Kaminsky, N., Hubert, J., Guerin, C., Mazlani, M., Kotland, A., **Pozzobon, V.**, Marant, B., Mailhac, H., & Poigny, S. (2024). _Molecules_, 29(23), 5792. [(Publisher Open Access)](https://www.mdpi.com/1420-3049/29/23/5792/pdf?version=1733561670) [(PDF file)](/assets/preprints/Kaminsky_2024_a.pdf)
