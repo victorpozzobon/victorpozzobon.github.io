@@ -198,25 +198,26 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Invitations as guest speaker
 
-<!--* **Du laboratoire au territoire : montée en échelle et évaluation du potentiel d'une technologie microalgue.** _**Pozzobon, V.**_ (2025, September). In _Tech Day : Accélérer l’innovation en biotechnologies : Les clés du scale-up_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.-->
+0. **Du laboratoire au territoire : montée en échelle et évaluation du potentiel d'une technologie microalgue.** _**Pozzobon, V.**_ (2025, September). In _Tech Day : Accélérer l’innovation en biotechnologies : Les clés du scale-up_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
 
-* **One upon a time** Mock, M. & **Pozzobon, V.** (2025, June). Invited talk, Capgemini, Online.
+0. **One upon a time** Mock, M. & **Pozzobon, V.** (2025, June). Invited talk, Capgemini, Online.
 
-* **Les biomédicaments un espoir pour les patients, une vocation pour les experts** (round table part of: _Journée Nationale de la Bioproduction de Biomédicament._) **Pozzobon, V.** (2025, June). Round table, Issy les Moulineaux, France.
+0. **Les biomédicaments un espoir pour les patients, une vocation pour les experts** (round table part of: _Journée Nationale de la Bioproduction de Biomédicament._) **Pozzobon, V.** (2025, June). Round table, Issy les Moulineaux, France.
 
-* **Modélisation biologique et design de photobioréacteurs pour la valorisation de biomasse microalgale** (part of the round table: _La pluridisciplinarité, un atout pour la bioraffinerie et la valorisation de la biomasse._) **Pozzobon, V.** (2023, March). Invited talk, Forum Labo, Paris, France.
+0. **Modélisation biologique et design de photobioréacteurs pour la valorisation de biomasse microalgale** (part of the round table: _La pluridisciplinarité, un atout pour la bioraffinerie et la valorisation de la biomasse._) **Pozzobon, V.** (2023, March). Invited talk, Forum Labo, Paris, France.
 
-* **Machine learning activities at the Chair of Biotechnology of CentraleSupélec.** **Pozzobon, V.** (2023, January). Invited talk, HubIA CentraleSupélec, Gif-sur-Yvette, France.
+0. **Machine learning activities at the Chair of Biotechnology of CentraleSupélec.** **Pozzobon, V.** (2023, January). Invited talk, HubIA CentraleSupélec, Gif-sur-Yvette, France.
 
-* **Emergence of the behavior of a population from its individuals: application to a photobioreactor.** **Pozzobon, V.** (2021, March). Invited talk, Unité PROSE, INRAE, Antony, France.
+0. **Emergence of the behavior of a population from its individuals: application to a photobioreactor.** **Pozzobon, V.** (2021, March). Invited talk, Unité PROSE, INRAE, Antony, France.
 
-* **Biomass gasification under radiative heat flux.** **Pozzobon, V.** (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_. Invited talk, The von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium.
+0. **Biomass gasification under radiative heat flux.** **Pozzobon, V.** (2019, April). In _VKI lecture series Pyrolysis phenomena in porous media_. Invited talk, The von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium.
 
-* **Granular media characterization: an application to wood chips bed.** **Pozzobon, V.** & Perré P. (2018, November). In _OpenFOAM on fixed beds days_. Invited talk, IFPEN, Solaize, France.
+0. **Granular media characterization: an application to wood chips bed.** **Pozzobon, V.** & Perré P. (2018, November). In _OpenFOAM on fixed beds days_. Invited talk, IFPEN, Solaize, France.
 
-* **Effet de la photopériode sur la croissance des microalgues.** **Pozzobon, V.** & Filali R. (2018, October). In _Journée microalgues_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
+0. **Effet de la photopériode sur la croissance des microalgues.** **Pozzobon, V.** & Filali R. (2018, October). In _Journée microalgues_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
 
-* **What is it to work as a PhD.** _**Pozzobon, V.**_ (2017, January). In _Conférence métier_. Invited talk, ENSEEIHT, Toulouse, France.
+0. **What is it to work as a PhD.** _**Pozzobon, V.**_ (2017, January). In _Conférence métier_. Invited talk, ENSEEIHT, Toulouse, France.
+{: reversed="reversed"}
 
 ### Proceedings
 
