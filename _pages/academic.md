@@ -77,11 +77,11 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
+<!--0. [**Microalgal membrane fluidity monitoring using DCVJ.**](https://doi.org) **Pozzobon, V.**, Yin, J., Levasseur, W. (2025).  _Algal research_, 438, 133262. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/) [(PDF file)](/assets/preprints/Levasseur_2025_a.pdf)-->
+
 0. [**Cultivation Strategies for Added-Value Products.**](https://doi.org/) Levasseur, W., & **Pozzobon, V.** (2026). In _Innovations in the Blue Economy_ (In Press). Elsevier.
 
 0. [**Microalgal Carotenoids in Heterotrophic Cultures.**](https://doi.org/) Camarena-Bernard, C., & **Pozzobon, V.** (2025). In _Pigments from Microalgae Handbook. Second Edition_ (In Press).  Springer.
-
-<!--0. [**Microalgal membrane fluidity monitoring using DCVJ.**](https://doi.org) **Pozzobon, V.**, Yin, J., Levasseur, W. (2025).  _Algal research_, 438, 133262. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/) [(PDF file)](/assets/preprints/Levasseur_2025_a.pdf)-->
 
 0. [**Impact of bubbles on the light field within a photobioreactor: a practical design tool.**](https://doi.org/10.1016/j.algal.2025.104331) **Pozzobon, V.** (2025).  _Algal research_, 91, 104331. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S2211926425004424/pdfft?md5=6988ed52816089b96d63ec3f0f13466b&pid=1-s2.0-S2211926425004424-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2025_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2025_b_Supplementary_Materials.pdf)
 
