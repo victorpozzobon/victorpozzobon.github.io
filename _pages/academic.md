@@ -83,7 +83,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 0. [**Microalgal Carotenoids in Heterotrophic Cultures.**](https://doi.org/) Camarena-Bernard, C., & **Pozzobon, V.** (2025). In _Pigments from Microalgae Handbook. Second Edition_ (In Press).  Springer.
 
-0. [**Microalgal membrane fluidity monitoring using DCVJ.**](https://doi.org/10.1016/j.algal.2025.104399) **Pozzobon, V.**, Yin, J., & Levasseur, W. (2025).  _Algal research_, 91, 104399. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S2211926425005107/pdfft?md5=2b885a04b0a9d460ce675f49ce7b76fb&pid=1-s2.0-S2211926425005107-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2025_c.pdf)
+0. [**Microalgal membrane fluidity monitoring using DCVJ.**](https://doi.org/10.1016/j.algal.2025.104399) **Pozzobon, V.**, Yin, J., & Levasseur, W. (2025).  _Algal research_, 92, 104399. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S2211926425005107/pdfft?md5=2b885a04b0a9d460ce675f49ce7b76fb&pid=1-s2.0-S2211926425005107-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2025_c.pdf)
 
 0. [**Impact of bubbles on the light field within a photobioreactor: a practical design tool.**](https://doi.org/10.1016/j.algal.2025.104331) **Pozzobon, V.** (2025).  _Algal research_, 91, 104331. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S2211926425004424/pdfft?md5=6988ed52816089b96d63ec3f0f13466b&pid=1-s2.0-S2211926425004424-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2025_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2025_b_Supplementary_Materials.pdf)
 
