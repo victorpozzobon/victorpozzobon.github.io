@@ -26,10 +26,10 @@ I am involved in several research collaborations. The ones reported here are tho
 
 * [**I2M - Université de Bordeaux**](https://www.i2m.u-bordeaux.fr/en) - on DEM/OpenFOAM coupling for heat transfer in packed bed reactors.
 
-<!--* I was also invited to in several Ph.D. juries (0 as president, four as a reviewer, and two as a guest) and monitoring committees (two in total). -->
+* I was also invited to in several Ph.D. juries (0 as president, 4 as a reviewer, and 3 as a guest) and monitoring committees (4 in total).
 <!--President: 0
 Reviewer: 1. PhD Ruming Pan (IMFT Gérald 2022), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna 2023), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric 2023), 4. Manon Mathieu (Mines Albi RAPSODEE, Javier Escudero 2024)
-Guest: 1. PhD Franco Otaola 2022, 2. PhD Shalolin Liu 2023, 3.
+Guest: 1. PhD Franco Otaola 2022 (TIMR Mikel et Denis), 2. PhD Shalolin Liu 2023 (I2M, Jean Lachaud), 3. Elise Viau 2026 (TBI, Sandrine & Carine)
 Monitoring commites: 1. Marion Pointcheval (GEPEA), 2023, 2. Elise Viau (TBI) 2023, 3. Hugo Delphan (CEA Cadarache), 2025, 4. Antoine Martin-Sanchez (LGPM, CentraleSupélec), 2025 -->
 
 ### Supervision, teaching and trainings
@@ -197,6 +197,10 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 {: reversed="reversed"}
 
 ### Invitations as guest speaker
+
+<!-- 0. **Upscaling processes and bioprocesses numerically.** _**Pozzobon, V.**_ (2026, April). Invited talk, Mines-Albi, ICA & RAPSODEE, Albi, France. -->
+
+0. **OpenFOAM and modeling.** _**Pozzobon, V.**_ (2026, February). Invited talk, I2M, Bordeaux, France.
 
 0. **Du laboratoire au territoire : montée en échelle et évaluation du potentiel d'une technologie microalgue.** _**Pozzobon, V.**_ (2025, September). In _Tech Day : Accélérer l’innovation en biotechnologies : Les clés du scale-up_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
 
