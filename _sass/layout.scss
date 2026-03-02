@@ -59,6 +59,7 @@
 }
 .navbar {
   padding: 5px 0 5px 0;
+  text-align: center;
 
   @include medium {
     margin-top: 5px;
@@ -76,10 +77,9 @@
   }
 }
 .nav-social {
-  width: 100%;
+  margin-top: 10px;
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 .navbar-btn {
   margin-top: 10px;
