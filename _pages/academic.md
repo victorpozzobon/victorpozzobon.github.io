@@ -26,6 +26,8 @@ I am involved in several research collaborations. The ones reported here are tho
 
 * [**I2M - Université de Bordeaux**](https://www.i2m.u-bordeaux.fr/en) - on DEM/OpenFOAM coupling for heat transfer in packed bed reactors.
 
+* [**University College London**](https://www.ucl.ac.uk/engineering/biochemical-engineering) - on machine learning and deep learning.
+
 I was also invited to in several Ph.D. juries (0 as president, 4 as a reviewer, and 3 as a guest) and monitoring committees (4 in total).
 <!--President: 0
 Reviewer: 1. PhD Ruming Pan (IMFT Gérald 2022), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna 2023), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric 2023), 4. Manon Mathieu (Mines Albi RAPSODEE, Javier Escudero 2024)
