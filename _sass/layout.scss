@@ -75,6 +75,11 @@
     display: none;
   }
 }
+.nav-social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .navbar-btn {
   margin-top: 10px;
   @include large {
