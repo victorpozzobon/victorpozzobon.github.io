@@ -53,5 +53,14 @@
         </a>
     </li>
     {%- endif -%}
+    {%- if site.hf_id -%}
+    <li class="social-media-item">
+        <a href="https://huggingface.co/{{ site.hf_id| cgi_escape | escape }}">
+            <svg class="svg-icon white">
+                <use href="{{ '/assets/icons.svg#huggingface' | relative_url }}"/>
+            </svg>
+        </a>
+    </li>
+    {%- endif -%}
 
 </ul>
