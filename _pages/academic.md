@@ -28,6 +28,8 @@ I am involved in several research collaborations. The ones reported here are tho
 
 * [**University College London**](https://www.ucl.ac.uk/engineering/biochemical-engineering) - on machine learning and deep learning.
 
+* [**The University of Memphis**](https://www.memphis.edu/publichealth) - on microalgae biofaçade.
+
 I was also invited to in several Ph.D. juries (0 as president, 4 as a reviewer, and 3 as a guest) and monitoring committees (4 in total).
 <!--President: 0
 Reviewer: 1. PhD Ruming Pan (IMFT Gérald 2022), 2. PhD Jack Hoeniges (GEPEA, Jérémy & Marianna 2023), 3. PhD Abdallah Haydar (GEPEA, Caroline Gentric 2023), 4. Manon Mathieu (Mines Albi RAPSODEE, Javier Escudero 2024)
@@ -68,8 +70,6 @@ My formal teachings activities are:
 
 * many other occasional or reoccurring involvements
 
-
-
 I also provide training to OpenFOAM, usually through 2 to 3-day sessions, once or twice a year.
 
 Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, including lectures in amphitheaters.
@@ -78,6 +78,12 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 <!--APA modified style-->
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
+
+0. [**Microalgae bio-reactive façade: biotechnological, building, and indoor environmental indicators in contrasted climate zones, the US as a numerical case study.**](https://doi.org/10.1016/j.buildenv.2026.114554) **Pozzobon, V.**, Ahmadi, F., Karimi, M., & Nazari, R. (2026).  _Building and Environment_, 296, 114554. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0360132326003604/pdfft?md5=74ad469a6cfea2e3ae13d4804b43c2d1&pid=1-s2.0-S0360132326003604-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2026_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2026_b_Supplementary_Materials.pdf)
+
+0. [**Effect of methanol, ethanol, DMSO and hexane on Chlorella vulgaris in the context of phytohormone delivery.**](https://doi.org/10.1016/j.jbiotec.2026.03.021) **Pozzobon, V.**, Salas, D. L., Laury, C., Camarena-Bernard, C., & Levasseur, W. (2026). _Journal of Biotechnology_, XXX. [(Publisher Open Access)](https://www.sciencedirect.com/) [(PDF file)](/assets/preprints/Pozzobon_2026_a.pdf)
+
+0. [**A greener and simpler lutein extraction process applied to heterotrophically-grown _Scenedesmus almeriensis_.**](https://doi.org/10.1007/s00449-026-03319-5) Camarena-Bernard, C., Salas, D. L., Jullien, T., Balti, R., & **Pozzobon, V.** (2026). _Bioprocess and Biosystems Engineering_. [(Publisher Open Access)](https://link.springer.com/content/pdf/10.1007/s00449-026-03319-5.pdf) [(PDF file)](/assets/preprints/Camarena_2026_a.pdf)
 
 0. [**A deep learning framework for spectrophotometric quantification of key microalgal pigments.**](https://doi.org/10.1016/j.mlwa.2026.100879) Bayomie, O., & **Pozzobon, V.** (2026).  _Machine Learning with Applications_, 100879. [(Associated repository)](https://huggingface.co/PozzobonV/CNNspectroMicroalgae) [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S2666827026000447/pdfft?md5=79ec698a2472a2c403335b1743016fda&pid=1-s2.0-S2666827026000447-main.pdf) [(PDF file)](/assets/preprints/Bayomie_2026_a.pdf) [(Supplementary materials)](/assets/preprints/Bayomie_2026_a_Supplementary_Materials.pdf)
 
