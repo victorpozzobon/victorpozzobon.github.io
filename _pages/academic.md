@@ -208,7 +208,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Invitations as guest speaker
 
-<!-- 0. **Upscaling processes and bioprocesses numerically.** _**Pozzobon, V.**_ (2026, April). Invited talk, Mines-Albi, ICA & RAPSODEE, Albi, France. -->
+0. **Upscaling processes and bioprocesses numerically.** _**Pozzobon, V.**_ (2026, April). Invited talk, Mines-Albi, ICA & RAPSODEE, Albi, France.
 
 0. **OpenFOAM and modeling.** _**Pozzobon, V.**_ (2026, February). Invited talk, I2M, Bordeaux, France.
 
