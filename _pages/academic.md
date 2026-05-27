@@ -40,13 +40,15 @@ Monitoring commites: 1. Marion Pointcheval (GEPEA), 2023, 2. Elise Viau (TBI) 20
 
 I direct(ed) or supervise(d) Ph.D. students (2 in progress, 8 graduated - 1 award-winning -) and post-doctoral fellows as well as numerous BSc and MSc students:
 
+<!--* [Temperature](https://www.theses.fr/), defended by Jinjing Yin on August 30 2028 (Doctoral School poster award 2025).-->
+
 * [Photoacclimation dynamic of green microalgae: experiments and modeling](https://theses.fr/2025UPAST063), defended by Arthur Oliver on June 6 2025.
 
 * [Lutein production and extraction improvements from a heterotrophic culture of _Scenedesmus almeriensis_](https://theses.fr/2024UPAST085), defended by Cristóbal Camarena-Bernard on August 28 2024.
 
 * [Development, modeling and optimization of CO2 separation process using membrane contactor: applied to hydrogen purification](https://www.theses.fr/2022UPAST040), defended by Sayali Ramdas Chavan on April 4 2022.
 
-* [Biotechnological performances of acclimated green microalgae cultures: effect of light and its modulations](https://www.theses.fr/2021UPAST084), defended by Wendie Levasseur on August 30 2021 ([Award](https://www.centralesupelec.fr/fr/impact-2021-prix-de-these-de-la-fondation-centralesupelec-0)).
+* [Biotechnological performances of acclimated green microalgae cultures: effect of light and its modulations](https://www.theses.fr/2021UPAST084), defended by Wendie Levasseur on August 30 2021 ([Award](https://mycs.centralesupelec.fr/fr/node/1390)).
 
 * [Production de biométhane à partir de biogaz par technologie de séparation par adsorption PSA : optimisation numérique par approche multi-échelle](https://www.theses.fr/2020UPAST043), defended by Najib Chouikhi on December 8 2020.
 
@@ -78,6 +80,8 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 <!--APA modified style-->
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
+
+0. [**Temperature effects on growth and biochemical composition of _Chlorella vulgaris_ under heterotrophic cultivation.**](https://doi.org/10.1016/j.plaphy.2026.111431) Yin, J., Levasseur, W., & **Pozzobon, V.** (2026).  _Plant Physiology and Biochemistry_, 111431. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0981942826004171/pdfft?md5=a10cba8ed5db008123431eefefc55e1a&pid=1-s2.0-S0981942826004171-main.pdf) [(PDF file)](/assets/preprints/Yin_2026_a.pdf) [(Supplementary materials)](/assets/preprints/Yin_2026_a_Supplementary_Materials.pdf)
 
 0. [**Microalgae bio-reactive façade: biotechnological, building, and indoor environmental indicators in contrasted climate zones, the US as a numerical case study.**](https://doi.org/10.1016/j.buildenv.2026.114554) **Pozzobon, V.**, Ahmadi, F., Karimi, M., & Nazari, R. (2026).  _Building and Environment_, 296, 114554. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0360132326003604/pdfft?md5=74ad469a6cfea2e3ae13d4804b43c2d1&pid=1-s2.0-S0360132326003604-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2026_b.pdf) [(Supplementary materials)](/assets/preprints/Pozzobon_2026_b_Supplementary_Materials.pdf)
 
@@ -207,6 +211,8 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 {: reversed="reversed"}
 
 ### Invitations as guest speaker
+
+<!--0. **De la molécule à la cellule : comment fabriquer les médicaments de demain.** Cynober, T, Lafferrère, L, Mock, M., _**Pozzobon, V.**_, presented by Corréard, V. (2026, April). In _Ecoutons le futur_. Podcast, Capgemini, Online.-->
 
 0. **Upscaling processes and bioprocesses numerically.** _**Pozzobon, V.**_ (2026, April). Invited talk, Mines-Albi, ICA & RAPSODEE, Albi, France.
 
