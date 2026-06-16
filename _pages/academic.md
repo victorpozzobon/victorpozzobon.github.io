@@ -212,7 +212,9 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Invitations as guest speaker
 
-<!--0. **De la molécule à la cellule : comment fabriquer les médicaments de demain.** Cynober, T, Lafferrère, L, Mock, M., _**Pozzobon, V.**_, presented by Corréard, V. (2026, April). In _Ecoutons le futur_. Podcast, Capgemini, Online.-->
+0. **Microalgae Research at the Chair of Biotechnology of CentraleSupélec.** _**Pozzobon, V.**_ (2026, June). Invited talk, TBI, Toulouse, France.
+
+0. **De la molécule à la cellule : comment fabriquer les médicaments de demain.** Cynober, T, Lafferrère, L, Mock, M., _**Pozzobon, V.**_, presented by Corréard, V. (2026, April). In _Ecoutons le futur_. Podcast, Capgemini, Online.
 
 0. **Upscaling processes and bioprocesses numerically.** _**Pozzobon, V.**_ (2026, April). Invited talk, Mines-Albi, ICA & RAPSODEE, Albi, France.
 
