@@ -81,9 +81,9 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-0. [**Numerical design and CFD validation of a low Reynolds number orifice flow meter.**](https://doi.org/) **Pozzobon, V.** (2026). _Flow Measurement and Instrumentation_. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/-main.pdf) [(PDF file)](/assets/preprints/Placeholder.pdf)
+0. [**Numerical design and CFD validation of a low Reynolds number orifice flow meter.**](https://doi.org/10.1016/j.flowmeasinst.2026.103454) **Pozzobon, V.** (2026). _Flow Measurement and Instrumentation_, XX, 103454. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0955598626002682/pdfft?md5=07840f755bb1af7b0733b306434ef029&pid=1-s2.0-S0955598626002682-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2026_c.pdf)
 
-0. [**Catalysis Enhanced Pyrolysis of Blended Biomass: Effects of Blends Compositions and Catalyst Concentrations.**](https://doi.org/10.1007/s42250-026-01742-5) Ncibi, C., Escudero-Sanz, J., **Pozzobon, V.**, & Lajili, M. (2026). _Chemistry Africa_, 9(5), 226. [(Publisher Open Access)](https://link.springer.com/content/pdf/10.1007/s42250-026-01742-5.pdf) [(PDF file)](/assets/preprints/Ncibi_2026_a.pdf)
+0. [**Catalysis Enhanced Pyrolysis of Blended Biomass: Effects of Blends Compositions and Catalyst Concentrations.**](https://doi.org/10.1007/s42250-026-01742-5) Ncibi, C., Escudero-Sanz, J., **Pozzobon, V.**, & Lajili, M. (2026). _Chemistry Africa_, 9(5), 226.
 
 0. [**Temperature effects on growth and biochemical composition of _Chlorella vulgaris_ under heterotrophic cultivation.**](https://doi.org/10.1016/j.plaphy.2026.111431) Yin, J., Levasseur, W., & **Pozzobon, V.** (2026). _Plant Physiology and Biochemistry_, 236, 111431. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0981942826004171/pdfft?md5=a10cba8ed5db008123431eefefc55e1a&pid=1-s2.0-S0981942826004171-main.pdf) [(PDF file)](/assets/preprints/Yin_2026_a.pdf) [(Supplementary materials)](/assets/preprints/Yin_2026_a_Supplementary_Materials.pdf)
 
@@ -216,15 +216,15 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 ### Invitations as guest speaker
 
-0. **Microalgae Research at the Chair of Biotechnology of CentraleSupélec.** **Pozzobon, V.**_ (2026, June). Invited talk, TBI, Toulouse, France.
+0. **Microalgae Research at the Chair of Biotechnology of CentraleSupélec.** **Pozzobon, V.** (2026, June). Invited talk, TBI, Toulouse, France.
 
 0. **De la molécule à la cellule : comment fabriquer les médicaments de demain.** Cynober, T, Lafferrère, L, Mock, M., **Pozzobon, V.**, presented by Corréard, V. (2026, April). In _Ecoutons le futur_. Podcast, Capgemini, Online.
 
 0. **Upscaling processes and bioprocesses numerically.** **Pozzobon, V.** (2026, April). Invited talk, Mines-Albi, ICA & RAPSODEE, Albi, France.
 
-0. **OpenFOAM and modeling.** _**Pozzobon, V.**_ (2026, February). Invited talk, I2M, Bordeaux, France.
+0. **OpenFOAM and modeling.** **Pozzobon, V.** (2026, February). Invited talk, I2M, Bordeaux, France.
 
-0. **Du laboratoire au territoire : montée en échelle et évaluation du potentiel d'une technologie microalgue.** _**Pozzobon, V.**_ (2025, September). In _Tech Day : Accélérer l’innovation en biotechnologies : Les clés du scale-up_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
+0. **Du laboratoire au territoire : montée en échelle et évaluation du potentiel d'une technologie microalgue.** **Pozzobon, V.** (2025, September). In _Tech Day : Accélérer l’innovation en biotechnologies : Les clés du scale-up_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
 
 0. **One upon a time** Mock, M. & **Pozzobon, V.** (2025, June). Invited talk, Capgemini, Online.
 
@@ -242,7 +242,7 @@ I presented my work to. For more info, please follow my [ORCID](https://orcid.or
 
 0. **Effet de la photopériode sur la croissance des microalgues.** **Pozzobon, V.** & Filali R. (2018, October). In _Journée microalgues_. Invited talk, European Center for Biotechnology and Bioeconomy, Pomacle, France.
 
-0. **What is it to work as a PhD.** _**Pozzobon, V.**_ (2017, January). In _Conférence métier_. Invited talk, ENSEEIHT, Toulouse, France.
+0. **What is it to work as a PhD.** **Pozzobon, V.** (2017, January). In _Conférence métier_. Invited talk, ENSEEIHT, Toulouse, France.
 {: reversed="reversed"}
 
 ### Proceedings
