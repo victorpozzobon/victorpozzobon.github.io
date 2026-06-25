@@ -81,7 +81,9 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
 I presented my work to. For more info, please follow my [ORCID](https://orcid.org/0000-0003-1530-0834) or [Google Scholar](https://scholar.google.fr/citations?user=XOAdaN4AAAAJ) profile. For the sake of convenience, I linked publishers' websites, still, almost all of my published articles are available in open archives such as [HAL](https://hal.archives-ouvertes.fr/). 
 
-0. [**Numerical design and CFD validation of a low Reynolds number orifice flow meter.**](https://doi.org/10.1016/j.flowmeasinst.2026.103454) **Pozzobon, V.** (2026). _Flow Measurement and Instrumentation_, XX, 103454. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0955598626002682/pdfft?md5=07840f755bb1af7b0733b306434ef029&pid=1-s2.0-S0955598626002682-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2026_c.pdf)
+<iframe src="https://victorpozzobon.github.io/assets/images/Pie_Articles.html" frameborder="0" style="float:right; width:50%; max-width:300px; margin:10px"></iframe>
+
+0. [**Numerical design and CFD validation of a low Reynolds number orifice flow meter.**](https://doi.org/10.1016/j.flowmeasinst.2026.103454) **Pozzobon, V.** (2026). _Flow Measurement and Instrumentation_, 111, 103454. [(Publisher Open Access)](https://www.sciencedirect.com/science/article/pii/S0955598626002682/pdfft?md5=07840f755bb1af7b0733b306434ef029&pid=1-s2.0-S0955598626002682-main.pdf) [(PDF file)](/assets/preprints/Pozzobon_2026_c.pdf)
 
 0. [**Catalysis Enhanced Pyrolysis of Blended Biomass: Effects of Blends Compositions and Catalyst Concentrations.**](https://doi.org/10.1007/s42250-026-01742-5) Ncibi, C., Escudero-Sanz, J., **Pozzobon, V.**, & Lajili, M. (2026). _Chemistry Africa_, 9(5), 226.
 

@@ -30,5 +30,3 @@ algorithms to three types of problems:
 * **Spectrophotometric quantification** (supervised learning) - to lower analytic response time and better operate bioreactors
 
 * **Data analysis** - to understand the underlying couplings within the data using non-linear models
-
-<!-- <iframe src="https://victorpozzobon.github.io/assets/response_surfaces/Fig_Surf_Xylose.html" frameborder="0" style="height: 100%; width: 100%; position:absolute; top:0; left:0"></iframe> -->
