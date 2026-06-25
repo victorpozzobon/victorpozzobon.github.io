@@ -78,7 +78,7 @@ Finally, over the course of my Ph.D., I gave more than 250 hours of teachings, i
 
 ### Publications
 
-<iframe src="https://victorpozzobon.github.io/assets/images/Pie_Articles.html" frameborder="0" style="float:right; width:50%; max-width:600px; margin:10px"></iframe>
+<iframe src="https://victorpozzobon.github.io/assets/images/Pie_Articles.html" frameborder="0" style="float:right; width:50%; max-width:400px; margin:10px; height:50%; max-height:450px;"></iframe>
 
 <!--APA modified style-->
 The list of the peer-reviewed publications I authored or co-authored, as well as conferences
